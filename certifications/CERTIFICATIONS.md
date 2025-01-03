@@ -1,5 +1,14 @@
 # Certifications
 
+## Java
+
+![Java 5 SCJP](java/SCJP.jpg)
+![Java SCWCD](java/SCWCD.jpg)
+![Java Netbeans](java/SCS.jpg)
+![Java BCD](java/OCP%20BCD.jpg)
+![Java WSD](java/OCE%20WSD.jpg)
+![Java JPA](java/OCE%20JPA.jpg)
+
 ## Cloud
 
 ### AWS
@@ -31,3 +40,4 @@
 ![OCI Foundations](cloud/oci/OCI%20Developer%20Associate%20Certificate.jpg)
 ![OCI Foundations](cloud/oci/OCI%20Associate%20Architect.jpg)
 ![OCI Foundations](cloud/oci/OCI%20Professional%20Architect%20Certificate.jpg)
+               
