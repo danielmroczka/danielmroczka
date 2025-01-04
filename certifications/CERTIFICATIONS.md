@@ -73,8 +73,8 @@ https://www.credly.com/badges/ec590442-6498-4f47-838a-6a151fef7d3e
 
 ### Neo4j
 
-![Neo4j](other/Neo4j%20Certified%20Professional_page-0001.jpg)
-![Neo4j](other/Neo4j%204.0%20Certified_page-0001.jpg)
+![Neo4j](other/Neo4j%20Certified%20Professional.jpg)
+![Neo4j](other/Neo4j%204.0%20Certified.jpg)
 
 ### Github
 
