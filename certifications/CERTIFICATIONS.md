@@ -42,6 +42,7 @@ https://www.credly.com/badges/cf4fe33b-d366-4ac6-a641-80caf389e095
 https://www.credly.com/badges/eee9b667-de36-471b-a92e-082b6d641013
 ![GCP PCD](cloud/gcp/Google%20Cloud%20PCD.jpg)
 ![GCP MLE](cloud/gcp/Google%20Cloud%20Machine%20Learning.jpg)
+![GCP CDL](cloud/gcp/Google%20Cloud%20CDL.jpg)
 
 ### OCI
 
