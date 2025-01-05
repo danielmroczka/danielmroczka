@@ -80,3 +80,7 @@ https://www.credly.com/badges/ec590442-6498-4f47-838a-6a151fef7d3e
 ### Github
 
 ![Github](other/GitHubFoundations_Badge20240801.jpg)
+
+### Certified SAFe 4 Practitioner
+
+![Safe](other/Certified%20SAFe%204%20Practitioner.jpg)
