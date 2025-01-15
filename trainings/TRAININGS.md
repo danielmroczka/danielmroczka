@@ -34,3 +34,17 @@ https://www.coursera.org/account/accomplishments/verify/D2M6V39KDCCA
 ![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0002.jpg)
 
 ![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0003.jpg)
+
+## GCP
+
+![GCP](gcp/Daniel%20Mroczka%20CloudTeam_GCP.jpg)
+
+![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Fundamentals%20-%20Core%20infrastructure.jpg)
+
+![GCP](gcp/Daniel_Mroczka%20-%20Getting%20started%20with%20GKE.jpg)
+
+![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Platform%20Big%20Data%20and%20Machine%20Learning%20Fundamentals.jpg)
+
+![GCP](gcp/Digital%20Leader%20Daniel%20Mroczka.jpg)
+
+![GCP](gcp/Big%20Data%20Daniel%20Mroczka.jpg)
