@@ -1,5 +1,11 @@
 # Trainings
 
+- [Coursera](#coursera)
+- [Udemy](#udemy)
+- [GCP](#gcp)
+- [MongoDB](#mongodb)
+- [Cloud Guru](#cloud-guru)
+
 ## Coursera
 
 ![Coursera](coursera/Coursera%20Functional%20Programming%20Principles%20in%20Scala%20H8R6X44QBM2R.jpg)
@@ -27,14 +33,6 @@ https://www.coursera.org/account/accomplishments/verify/D2M6V39KDCCA
 
 ![Udemy](udemy/UC-f1f40599-ff5e-45cb-ac5d-431dfbc430ff.jpg)
 
-## MongoDB
-
-![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0001.jpg)
-
-![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0002.jpg)
-
-![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0003.jpg)
-
 ## GCP
 
 ![GCP](gcp/Daniel%20Mroczka%20CloudTeam_GCP.jpg)
@@ -48,6 +46,14 @@ https://www.coursera.org/account/accomplishments/verify/D2M6V39KDCCA
 ![GCP](gcp/Digital%20Leader%20Daniel%20Mroczka.jpg)
 
 ![GCP](gcp/Big%20Data%20Daniel%20Mroczka.jpg)
+
+## MongoDB
+
+![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0001.jpg)
+
+![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0002.jpg)
+
+![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0003.jpg)
 
 ## Cloud Guru
 
