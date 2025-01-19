@@ -18,24 +18,30 @@ projects.
 
 ### Work Experience:
 
-* **Dynatrace Austria GmbH (Vienna)** - Senior Java Developer (III.2021-current)
+* **[Erste Digital GmbH](https://www.erstedigital.com/) (Vienna)** - Senior Java Developer (IV.2023-current)
+  * Providing data for George app.
+  * Transaction team member
+
+* **[Dynatrace Austria GmbH](https://www.dynatrace.com/) (Vienna)** - Senior Java Developer (III.2021-III.2023)
     * Implementation of Grail - 3rd gen storage for logs and metrics (released October 2022)
     * Contributing to project responsible for scaling and distributing ingestion of data
     * Member of Engineering Productivity Guild team responsible for operations and enhancements in preparation for first
       release of application into production.
     * Introducing self-monitoring and dashboards, improvements, inter-team collaboration
 
-* **iov42 British-Austrian Startup (Vienna, Austria)** - Senior Java Developer (VIII.2019-II.2021)
+* **[iov42](https://iov42.com/) British-Austrian Startup (Vienna, Austria)** - Senior Java Developer (VIII.2019-II.2021)
     * Implementation of a few application prototypes and internal microservices based on the core Blockchain platform
       invented by iov42. Ready to demonstrate them to potential investors.
     * Carbon Credit Ecosystem (CCE) allows carbon credits to be issued securely
     * Know Your Customer (KYC) use case for the Banking and Telecommunication industries
 
-* **Automic GmbH - acquired by Broadcom Inc. (Vienna, Austria)** - Senior Java Engineer (II.2018-IV.2019)
+* **[Automic GmbH](https://automic.com/) - acquired by Broadcom Inc. (Vienna, Austria)** - Senior Java Engineer (
+  II.2018-IV.2019)
     * Implementation of new features in the Rule Engine as part of Intelligence Automation team
     * Maintenance Automation Web Interface (AWI) project
 
-* **EBCONT enterprise technologies GmbH (Vienna, Austria)** - Senior Java EE Consultant (XI.2016-I.2018)
+* **[EBCONT enterprise technologies GmbH](https://www.ebcont.com) (Vienna, Austria)** - Senior Java EE Consultant (
+  XI.2016-I.2018)
     * Implementation of new features in IPS application KSV1870
     * Implementation from the scratch Red Bull Studio booking application for Red Bull
     * Implementation of new features in application e-zoll (e-custom) for Bundesrechenzentrum (BRZ)
@@ -151,7 +157,8 @@ projects.
 
 ### Side projects:
 
-* *Auto WiFi Tethering* - Android application helping to share internet connection (2016-2019).
+* *[Auto WiFi Tethering](https://play.google.com/store/apps/details?id=com.labs.dm.auto_tethering)* - Android
+  application helping to share internet connection (2016-2019).
 
 ### Language skills:
 
