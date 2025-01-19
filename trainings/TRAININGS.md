@@ -2,7 +2,7 @@
 
 ## Coursera
 
-![Coursera](coursera/Coursera%20Object-Oriented%20Programming%20in%20Java%20H8R6X44QBM2R.jpg)
+![Coursera](coursera/Coursera%20Functional%20Programming%20Principles%20in%20Scala%20H8R6X44QBM2R.jpg)
 
 ![Coursera](coursera/Coursera%20Oracle%20Cloud%20Infrastructure%20Architect%20Associate%20DZCT32XW5864.jpg)
 
