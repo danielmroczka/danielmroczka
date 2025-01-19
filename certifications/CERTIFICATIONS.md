@@ -86,9 +86,17 @@
 
 ### OCI
 
-#### Oracle Cloud Infrastructure Foundations Associate
+#### Oracle Cloud Infrastructure 2021 Foundations Associate
 
 ![OCI Foundations](cloud/oci/OCI%20Foundations%20Associate%20Certificate.jpg)
+
+#### Oracle Cloud Infrastructure 2024 Foundations Associate
+
+![OCI Foundations](cloud/oci/OCI%202024%20Foundations%20Associate.jpg)
+
+#### Oracle Cloud Infrastructure 2024 AI Foundations Associate
+
+![OCI Foundations](cloud/oci/OCI%202024%20AI%20Foundations%20Associate.jpg)
 
 #### Oracle Cloud Infrastructure Developer Associate
 

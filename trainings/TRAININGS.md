@@ -2,7 +2,7 @@
 
 ## Coursera
 
-![Coursera](coursera/Coursera Oracle Cloud Infrastructure Architect Professional DSNAGAWE2YYU.jpg)
+![Coursera](coursera/Coursera%20Functional%20Programming%20Principles%20in%20Scala%20H8R6X44QBM2R.jpg)
 
 ![Coursera](coursera/Coursera%20Oracle%20Cloud%20Infrastructure%20Architect%20Associate%20DZCT32XW5864.jpg)
 
@@ -48,3 +48,17 @@ https://www.coursera.org/account/accomplishments/verify/D2M6V39KDCCA
 ![GCP](gcp/Digital%20Leader%20Daniel%20Mroczka.jpg)
 
 ![GCP](gcp/Big%20Data%20Daniel%20Mroczka.jpg)
+
+## Cloud Guru
+
+![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0024.jpg)
+https://verify.acloud.guru/DCCF2D768E89
+
+![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0025.jpg)
+https://verify.acloud.guru/D1269D28BD23
+
+![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0026.jpg)
+https://verify.acloud.guru/F9EFEAE7E90F
+
+![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0027.jpg)
+https://verify.acloud.guru/7F534EC08964
