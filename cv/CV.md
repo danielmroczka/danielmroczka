@@ -107,17 +107,10 @@ projects.
 * **Testing:** JUnit, Mockito, TestNG, FlexUnit, JMeter, TDD
 * **Tools:** Jira, Version One, Crucible, Continuous Integration and Delivery (TeamCity, Jenkins), SoapUI, Static Code
   Analysis (PMD, CPD, Findbugs, Checkstyle), Cobertura, SonarQube
-* **Other:** Kubernetes, Docker, Agile, Object Oriented Programming, Design Patterns (GoF), Clean Code Principles, UML,
-  RegExp, OSGi/Eclipse RCP(basic), Android and Google Play Developer
-
-**Skills:**
-
-* **Languages:** Java SE, Java EE, Groovy, JavaScript, SQL, PL/SQL
-* **Frameworks:** Spring, Hibernate, JSF, RichFaces, AngularJS, React, Node.js
-* **Tools:** Maven, Jenkins, Git, Jira, Confluence, Docker, Kubernetes
-* **Databases:** Oracle, PostgreSQL, MySQL
 * **Cloud:** AWS, Azure, GCP
 * **Methodologies:** Agile (Scrum, Kanban), Waterfall
+* **Other:** Kubernetes, Docker, Agile, Object Oriented Programming, Design Patterns (GoF), Clean Code Principles, UML,
+  RegExp, OSGi/Eclipse RCP(basic), Android and Google Play Developer
 
 ### Certifications:
 
