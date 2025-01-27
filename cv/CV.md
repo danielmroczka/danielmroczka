@@ -13,7 +13,8 @@ Always interested in learning new technologies and walking on unbeaten paths whi
 and high-quality software.
 
 Over 20 years of experience in the aviation/travel, petrol, automation, consulting, finance and banking industries,
-working in small (start-ups), medium and large companies. 15 years working experience in international teams and
+working in small (start-ups), medium and large companies. More than 15 years working experience in international teams
+and
 projects.
 
 ### Work Experience:
@@ -57,7 +58,8 @@ projects.
     * Development of e-invoicing SaaS applications
     * Building new office and team as one of the first employee in polish office
 
-* **Sabre Holdings (American travel technology company)** - Senior Java Developer / Analyst (IX.2008-VII.2013)
+* **[Sabre Holdings](https://www.sabre.com/) (American travel technology company)** - Senior Java Developer / Analyst (
+  IX.2008-VII.2013)
     * Designing and developing Traveler Profile Admin, Agent and User Roles applications (from scratch to prod
       release) - Participation in the full Software (Agile) Development Life Cycle
     * Leadership in designing, mentoring other developers and newcomers, technical recruitment
@@ -67,11 +69,12 @@ projects.
       mechanical systems (Statoil).
     * Cooperation with technical consultants during implementation of algorithms
 
-* **Fortis Bank Polska S.A. (nowadays part of BNP Paribas Fortis)** - Software Developer (XI.2006-III.2007)
+* **[Fortis Bank Polska S.A.](https://fortisbank.com/) (nowadays part of BNP Paribas Fortis)** - Software Developer (
+  XI.2006-III.2007)
     * Core Banking Retail Application - designing and developing banking system based on T24
     * Application Development Group - developing existing banking system.
 
-* **McComp S.A.** - Software Developer (X.2002-VI.2005)
+* **[McComp S.A.](https://www.mccomp.pl/)** - Software Developer (X.2002-VI.2005)
     * McSpalWin - Computer system for petrol station PKN ORLEN S.A. (1600+ stations in Poland).
     * Role: Programmer (sales module, customer management, payments)
 
@@ -112,7 +115,7 @@ projects.
 * **Other:** Kubernetes, Docker, Agile, Object Oriented Programming, Design Patterns (GoF), Clean Code Principles, UML,
   RegExp, OSGi/Eclipse RCP(basic), Android and Google Play Developer
 
-### Certifications:
+### [Certifications](../certifications/CERTIFICATIONS.md):
 
 **Java:**
 
@@ -164,3 +167,7 @@ projects.
 * Q2 2012 Sabre Individual Technology Award Winner
 * Nominee in Sabre Krakow Wings Recognition Program for Q3 2011 Category: Leadership
 * Q3 and Q4 2010 Sabre Champion - in recognition of outstanding performance and lasting contribution
+
+---
+
+###### latest update: 27/01/2025
