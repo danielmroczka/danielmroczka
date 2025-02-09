@@ -47,6 +47,8 @@ https://www.coursera.org/account/accomplishments/verify/D2M6V39KDCCA
 
 ![GCP](gcp/Big%20Data%20Daniel%20Mroczka.jpg)
 
+![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Fundamentals%20-%20Core%20infrastructure%202025.jpg)
+
 ## MongoDB
 
 ![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0001.jpg)
