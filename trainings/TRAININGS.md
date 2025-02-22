@@ -70,3 +70,7 @@ https://verify.acloud.guru/F9EFEAE7E90F
 
 ![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0027.jpg)
 https://verify.acloud.guru/7F534EC08964
+
+## Other
+
+![Kotlin Expert](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)

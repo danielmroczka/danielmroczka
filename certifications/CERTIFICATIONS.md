@@ -183,7 +183,7 @@
 
 ### Vaadin
 
-#### Vaadin 10 Developer
+#### Vaadin 10 Developer [credly](https://vaadin.com/learn/certificate/9cbe6d05-6991-4567-913c-eaede8f96761)
 
 ![Vaadin 10 Developer](vaadin/Vaadin%2010%20Developer.jpg)
 
