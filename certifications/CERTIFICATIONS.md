@@ -224,4 +224,4 @@
 
 #### ChromeOS Administrator
 
-![Google ChromeOS Administrator](other/Google%20ChromeOS%20Administrator.jpg)
+![Google ChromeOS Administrator](other/Google%20ChromeOS%20Administrator.jpg) 

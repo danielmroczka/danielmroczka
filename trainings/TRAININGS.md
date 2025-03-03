@@ -8,16 +8,29 @@
 
 ## Coursera
 
+### Functional Programming Principles in Scala
 ![Coursera](coursera/Coursera%20Functional%20Programming%20Principles%20in%20Scala%20H8R6X44QBM2R.jpg)
 
+### Oracle Cloud Infrastructure Architect Associate
 ![Coursera](coursera/Coursera%20Oracle%20Cloud%20Infrastructure%20Architect%20Associate%20DZCT32XW5864.jpg)
 
+### Oracle Cloud Infrastructure Architect Professional
+
+![Coursera](coursera/Coursera%20Oracle%20Cloud%20Infrastructure%20Architect%20Professional%20DSNAGAWE2YYU.jpg)
+
+### Kotlin for Java Developers
 ![Coursera](coursera/Coursera%20Kotlin%20for%20Java%20Developers%208YV7UD9FHRY3.jpg)
 
-![Coursera](coursera/Coursera%20Functional%20Programming%20Principles%20in%20Scala%20H8R6X44QBM2R.jpg)
-
+### AWS Cloud Practitioner Essentials [link](https://www.coursera.org/verify/D2M6V39KDCCA)
 ![Coursera](coursera/Coursera%20AWS%20Cloud%20Practitioner%20Essentials%20D2M6V39KDCCA.jpg)
-https://www.coursera.org/account/accomplishments/verify/D2M6V39KDCCA
+
+### Introduction to AI and Machine Learning on Google Cloud [link](https://www.coursera.org/verify/T447FN2RA5PK)
+
+![Coursera](coursera/Coursera%20Introduction%20to%20AI%20and%20Machine%20Learning%20on%20Google%20Cloud%20T447FN2RA5PK.jpg)
+
+### Google AI Essentials [link](https://www.coursera.org/account/P63ZZL1MEUG4)
+
+![Coursera](coursera/Coursera%20Google%20AI%20Essentials%20P63ZZL1MEUG4.jpg)
 
 ## Udemy
 
