@@ -48,6 +48,7 @@
     - [Github](#github)
         - [GitHub Foundations](#github-foundations-credly)
     - [Scaled Agile Framework (SAFe)](#scaled-agile-framework-safe)
+  - []
 
 ---
 
@@ -220,3 +221,7 @@
 #### Certified SAFe 4 Practitioner [credly](https://www.credly.com/earner/earned/badge/b8a56bfd-d931-4150-8761-1a4a8deb03d5)
 
 ![Safe](other/Certified%20SAFe%204%20Practitioner.jpg)
+
+#### ChromeOS Administrator
+
+![Google ChromeOS Administrator](other/Google%20ChromeOS%20Administrator.jpg) 
