@@ -88,4 +88,4 @@ https://verify.acloud.guru/7F534EC08964
 
 ## Other
 
-![Kotlin Expert](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)
+[![Kotlin Expert](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)]
