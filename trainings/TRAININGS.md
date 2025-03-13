@@ -48,21 +48,34 @@
 
 ## GCP
 
+### Google Cloud Fundamentals: Core Infrastructure 2022
 ![GCP](gcp/Daniel%20Mroczka%20CloudTeam_GCP.jpg)
 
+### Google Cloud Fundamentals: Core Infrastructure 2024
 ![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Fundamentals%20-%20Core%20infrastructure.jpg)
 
+### Google Started with Google Kubernetes Engine 2024
 ![GCP](gcp/Daniel_Mroczka%20-%20Getting%20started%20with%20GKE.jpg)
 
+### Google Cloud Platform Big Data and Machine Learning Fundamentals 2024
 ![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Platform%20Big%20Data%20and%20Machine%20Learning%20Fundamentals.jpg)
 
-![GCP](gcp/Digital%20Leader%20Daniel%20Mroczka.jpg)
+### Google Cloud Fundamentals: Cloud Digital Leader 2024
 
+![GCP](gcp/Daniel%20Mroczka%20-%20Digital%20Leader.jpg)
+
+### Google Cloud Fundamentals: Big Data and Machine Learning 2024
 ![GCP](gcp/Big%20Data%20Daniel%20Mroczka.jpg)
 
+### Google Cloud Fundamentals: Core Infrastructure 2025
 ![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Fundamentals%20-%20Core%20infrastructure%202025.jpg)
 
+### Introduction to Data Analytics on Google Cloud 2025
 ![GCP](gcp/Daniel%20Mroczka%20-%20Introduction%20to%20Data%20Analytics%20on%20Google%20Cloud.jpg)
+
+### Getting Started with Terraform for Google Cloud 2025
+
+![GCP](gcp/Daniel_Mroczka%20-%20Getting%20Started%20with%20Terraform%20for%20Google%20Cloud.jpg)
 
 ## MongoDB
 
@@ -88,4 +101,4 @@ https://verify.acloud.guru/7F534EC08964
 
 ## Other
 
-![Kotlin Expert](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)
+[![Kotlin Expert](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)]
