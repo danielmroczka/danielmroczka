@@ -74,8 +74,15 @@
 ![GCP](gcp/Daniel%20Mroczka%20-%20Introduction%20to%20Data%20Analytics%20on%20Google%20Cloud.jpg)
 
 ### Getting Started with Terraform for Google Cloud 2025
-
 ![GCP](gcp/Daniel_Mroczka%20-%20Getting%20Started%20with%20Terraform%20for%20Google%20Cloud.jpg)
+
+### Introduction to Data Engineering on Google Cloud 2025
+
+![GCP](gcp/Daniel_Mroczka%20-%20Introduction%20to%20Data%20Engineering%20on%20Google%20Cloud.jpg)
+
+### Getting Started with Google Kubernetes Engine 2025
+
+![GCP](gcp/Daniel_Mroczka%20-%20Getting%20Started%20with%20Google%20Kubernetes%20Engine.jpg)
 
 ## MongoDB
 
