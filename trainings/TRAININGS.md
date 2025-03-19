@@ -110,23 +110,30 @@
 
 ## MongoDB
 
+### M102: MongoDB for DBAs
 ![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0001.jpg)
 
+### M101J: MongoDB for Java Developers
 ![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0002.jpg)
 
+### M101JSL MongoDB for Node.js Developers
 ![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0003.jpg)
 
 ## Cloud Guru
 
+### Introduction to Google Cloud
 ![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0024.jpg)
 https://verify.acloud.guru/DCCF2D768E89
 
+### Google Cloud Certified Associate Cloud Engineer
 ![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0025.jpg)
 https://verify.acloud.guru/D1269D28BD23
 
+### Crash Course on Google Cloud Platform
 ![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0026.jpg)
 https://verify.acloud.guru/F9EFEAE7E90F
 
+### Learn Google Cloud by Doing
 ![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0027.jpg)
 https://verify.acloud.guru/7F534EC08964
 
@@ -134,8 +141,8 @@ https://verify.acloud.guru/7F534EC08964
 
 ### Kotlin Expert Workshop
 
-[![Kotlin Expert](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)]()
+[![Kotlin Expert](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)
 
-### Using AI in Business Development [credentials](https://cdn.umiejetnoscijutra.pl/certificates/67bced35-9cf9-4fa9-a9db-c13e81df3dc4)
+### Using AI in Business Development [link](https://cdn.umiejetnoscijutra.pl/certificates/67bced35-9cf9-4fa9-a9db-c13e81df3dc4)
 
-[![ddd](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)]()
+[![ddd](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)
