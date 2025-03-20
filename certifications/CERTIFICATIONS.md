@@ -48,7 +48,7 @@
     - [Github](#github)
         - [GitHub Foundations](#github-foundations-credly)
     - [Scaled Agile Framework (SAFe)](#scaled-agile-framework-safe)
-  - []
+    - [ChromeOS Administrator](#ChromeOS-Administrator)
 
 ---
 
