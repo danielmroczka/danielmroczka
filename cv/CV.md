@@ -36,13 +36,11 @@ projects.
     * Carbon Credit Ecosystem (CCE) allows carbon credits to be issued securely
     * Know Your Customer (KYC) use case for the Banking and Telecommunication industries
 
-* **[Automic GmbH](https://automic.com/) - acquired by Broadcom Inc. (Vienna, Austria)** - Senior Java Engineer (
-  II.2018-IV.2019)
+* **[Automic GmbH](https://automic.com/) - acquired by Broadcom Inc. (Vienna, Austria)** - Senior Java Engineer (II.2018-IV.2019)
     * Implementation of new features in the Rule Engine as part of Intelligence Automation team
     * Maintenance Automation Web Interface (AWI) project
 
-* **[EBCONT enterprise technologies GmbH](https://www.ebcont.com) (Vienna, Austria)** - Senior Java EE Consultant (
-  XI.2016-I.2018)
+* **[EBCONT enterprise technologies GmbH](https://www.ebcont.com) (Vienna, Austria)** - Senior Java EE Consultant (XI.2016-I.2018)
     * Implementation of new features in IPS application KSV1870
     * Implementation from the scratch Red Bull Studio booking application for Red Bull
     * Implementation of new features in application e-zoll (e-custom) for Bundesrechenzentrum (BRZ)
@@ -50,7 +48,7 @@ projects.
 * **LEROX Datenverarbeitung GmbH part of Roxcel Group (Vienna, Austria)** - Senior Java Developer (I.2015-X.2016)
     * Development of bookkeeping software JAbacus (full development cycle)
 
-* **OpenJaw Technologies (Irish travel technology company)** - Senior Software Engineer (II.2014-IX.2014)
+* **[OpenJaw Technologies](https://www.openjawtech.com/) (Irish travel technology company)** - Senior Software Engineer (II.2014-IX.2014)
     * Implementation Event Booking Mobile Web Application (Proof of Concept)
     * Development of new features for Platform team (core functionalities) and S7 Airline
 
@@ -78,7 +76,7 @@ projects.
     * McSpalWin - Computer system for petrol station PKN ORLEN S.A. (1600+ stations in Poland).
     * Role: Programmer (sales module, customer management, payments)
 
-* **Applied Mathematics Agency** - Software Developer (I.2001-IX.2002)
+* **[BMS Creative](https://bms.krakow.pl/english)** - Software Developer (I.2001-IX.2002)
     * Berberis - Customer Relationship Management
     * IRIS - Reservation ticket system through internet for International Travel Company Jordan.
 
@@ -108,12 +106,10 @@ projects.
 * **VCS:** Git (GitHub, GitLab, BitBucket), SVN, CVS
 * **Build tools:** Gradle, Maven, Ant, Ivy, Sonatype Nexus
 * **Testing:** JUnit, Mockito, TestNG, FlexUnit, JMeter, TDD
-* **Tools:** Jira, Version One, Crucible, Continuous Integration and Delivery (TeamCity, Jenkins), SoapUI, Static Code
-  Analysis (PMD, CPD, Findbugs, Checkstyle), Cobertura, SonarQube
+* **Tools:** Jira, Version One, Crucible, Continuous Integration and Delivery (TeamCity, Jenkins), SoapUI, Static Code Analysis (PMD, CPD, Findbugs, Checkstyle), Cobertura, SonarQube
 * **Cloud:** AWS, Azure, GCP
 * **Methodologies:** Agile (Scrum, Kanban), Waterfall
-* **Other:** Kubernetes, Docker, Agile, Object Oriented Programming, Design Patterns (GoF), Clean Code Principles, UML,
-  RegExp, OSGi/Eclipse RCP(basic), Android and Google Play Developer
+* **Other:** Kubernetes, Docker, Agile, Object Oriented Programming, Design Patterns (GoF), Clean Code Principles, UML, RegExp, OSGi/Eclipse RCP(basic), Android and Google Play Developer
 
 ### [Certifications](../certifications/CERTIFICATIONS.md):
 
