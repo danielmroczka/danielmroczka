@@ -5,6 +5,8 @@
 - [GCP](#gcp)
 - [MongoDB](#mongodb)
 - [Cloud Guru](#cloud-guru)
+- [Alibaba Cloud](#alibaba)
+- [Others](#other)
 
 ## Coursera
 
@@ -136,6 +138,28 @@ https://verify.acloud.guru/F9EFEAE7E90F
 ### Learn Google Cloud by Doing
 ![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0027.jpg)
 https://verify.acloud.guru/7F534EC08964
+
+## Alibaba
+
+### Operate and Manage a Cloud Server
+
+![](alibaba/img_3d86e00c470a21ab01919efdefe040b6.png)
+
+### Use Cloud Resources Flexibly According to Business Requirement
+
+![](alibaba/img_4ceaf19b19fba6a8ebecda6834bd472a.png)
+
+### Handle Large Traffic with Load Balancer
+
+![](alibaba/img_957308d3254381e2aea35aaaa13f8334.png)
+
+### Operate and Manage a Relational Database on the Cloud
+
+![](alibaba/img_ed29469442d02ab4ba041d13a32616ff.png)
+
+### Operate and Manage Object Storage on the Cloud
+
+![](alibaba/img_ef1515b1798e0c657232de7d6a981bdb.png)
 
 ## Other
 
