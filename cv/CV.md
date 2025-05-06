@@ -125,6 +125,10 @@ projects.
 
 **Cloud:**
 
+* GCP DLC: Google Cloud Certified - Digital Leader (2025)
+* GCP PMLE: Google Cloud Certified - Professional Machine Learning Engineer (2024)
+* GCP PCD: Google Cloud Certified - Professional Cloud Developer (2024)
+* GCP PCA: Google Cloud Certified - Professional Cloud Architect (2024)
 * GCP ACE: Google Cloud Certified - Associate Cloud Engineer (2023)
 * GCP PCNE: Google Cloud Certified - Professional Cloud Network Engineer (2023)
 * Azure AZ-900 Microsoft Certified Azure Fundamentals (2020)
