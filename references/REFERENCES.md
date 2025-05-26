@@ -1,4 +1,4 @@
-# Work references letters
+# Work Reference Letters
 
 1. [BMS](#bms)
 2. [Lerox](#lerox)
@@ -8,25 +8,25 @@
 
 ## [BMS](https://bms.krakow.pl/english)
 
-![BMS](BMS%20Reference%20Letter.jpg)
-[pdf](BMS%20Reference%20Letter.pdf)
+![BMS Reference Letter](BMS%20Reference%20Letter.jpg)
+[Download PDF](BMS%20Reference%20Letter.pdf)
 
-## [Lerox]()
+## [Lerox](https://www.roxcel.com/)
 
-![Lerox](Lerox%20Reference%20Letter.jpg)
-[pdf](Lerox%20Reference%20Letter.pdf)
+![Lerox Reference Letter](Lerox%20Reference%20Letter.jpg)
+[Download PDF](Lerox%20Reference%20Letter.pdf)
 
 ## [Ebcont](https://www.ebcont.com/)
 
-![Ebcont](Ebcont%20Reference%20Letter.jpg)
-[pdf](Ebcont%20Reference%20Letter.pdf)
+![Ebcont Reference Letter](Ebcont%20Reference%20Letter.jpg)
+[Download PDF](Ebcont%20Reference%20Letter.pdf)
 
 ## [IOV42](https://iov42.com/)
 
-![IOV42](IOV42%20Reference%20Letter.jpg)
-[pdf](IOV42%20Reference%20Letter.pdf)
+![IOV42 Reference Letter](IOV42%20Reference%20Letter.jpg)
+[Download PDF](IOV42%20Reference%20Letter.pdf)
 
 ## [Dynatrace](https://www.dynatrace.com/)
 
-![Dynatrace](Dynatrace%20Reference%20Letter.jpg)
-[pdf](Dynatrace%20Reference%20Letter.pdf)
+![Dynatrace Reference Letter](Dynatrace%20Reference%20Letter.jpg)
+[Download PDF](Dynatrace%20Reference%20Letter.pdf)

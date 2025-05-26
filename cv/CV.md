@@ -3,19 +3,17 @@
 **Location:** 1220 Vienna, Austria  
 **E-mail:** daniel.mroczka@gmail.com  
 **Phone:** to be provided upon request  
-**Website:** www.linkedin.com/in/danielmroczka
+**LinkedIn:** [www.linkedin.com/in/danielmroczka](https://www.linkedin.com/in/danielmroczka)
 
 ## Summary
 
-Self-motivated, self-reliant and quick learner. Passion Driven Developer with background in Java SE, Java EE and
-Databases.
-Always interested in learning new technologies and walking on unbeaten paths while creating working, usable
-and high-quality software.
+I am a self-motivated, self-reliant, and quick-learning software developer with a passion for Java SE, Java EE, and
+database technologies. I am always eager to explore new technologies and innovative approaches while creating
+functional, user-friendly, and high-quality software solutions.
 
-Over 20 years of experience in the aviation/travel, petrol, automation, consulting, finance and banking industries,
-working in small (start-ups), medium and large companies. More than 15 years working experience in international teams
-and
-projects.
+With over 20 years of experience across aviation/travel, petrol, automation, consulting, finance, and banking
+industries, I have worked in organizations of all sizes from startups to large enterprises. I have more than 15 years of
+experience working in international teams and projects.
 
 ### Work Experience:
 
@@ -50,13 +48,15 @@ projects.
 * **LEROX Datenverarbeitung GmbH part of Roxcel Group (Vienna, Austria)** - Senior Java Developer (I.2015-X.2016)
     * Development of bookkeeping software JAbacus (full development cycle)
 
-* **OpenJaw Technologies (Irish travel technology company)** - Senior Software Engineer (II.2014-IX.2014)
-    * Implementation Event Booking Mobile Web Application (Proof of Concept)
+* **[OpenJaw Technologies](https://www.openjawtech.com/)** (Irish travel technology company) - Senior Software
+  Engineer (II.2014-IX.2014)
+  * Implementation of Event Booking Mobile Web Application (Proof of Concept)
     * Development of new features for Platform team (core functionalities) and S7 Airline
 
-* **Anachron (Dutch e-Documents' service provide)** - Senior Java Developer (IX.2013-I.2014)
+* **[Anachron](https://www.anachron.com/)** (Dutch e-Documents' service provider) - Senior Java Developer (
+  IX.2013-I.2014)
     * Development of e-invoicing SaaS applications
-    * Building new office and team as one of the first employee in polish office
+  * Building new office and team as one of the first employees in the Polish office
 
 * **[Sabre Holdings](https://www.sabre.com/) (American travel technology company)** - Senior Java Developer / Analyst (
   IX.2008-VII.2013)
@@ -64,23 +64,23 @@ projects.
       release) - Participation in the full Software (Agile) Development Life Cycle
     * Leadership in designing, mentoring other developers and newcomers, technical recruitment
 
-* **InLoop sp. z o.o (Norwegian technology startup)** - Head Programmer / Project Manager (IV.2007-VIII.2008)
-    * Designing and developing expert system assigned for industry used in detection of failure in hydraulic and
-      mechanical systems (Statoil).
-    * Cooperation with technical consultants during implementation of algorithms
+* **InLoop sp. z o.o** (Norwegian technology startup) - Head Programmer / Project Manager (IV.2007-VIII.2008)
+  * Designing and developing expert system for industrial use in detection of failures in hydraulic and
+    mechanical systems (Statoil)
+  * Collaboration with technical consultants during algorithm implementation
 
-* **[Fortis Bank Polska S.A.](https://fortisbank.com/) (nowadays part of BNP Paribas Fortis)** - Software Developer (
+* **[Fortis Bank Polska S.A.](https://www.bnpparibas.pl/)** (now part of BNP Paribas) - Software Developer (
   XI.2006-III.2007)
     * Core Banking Retail Application - designing and developing banking system based on T24
-    * Application Development Group - developing existing banking system.
+  * Application Development Group - enhancing existing banking systems
 
 * **[McComp S.A.](https://www.mccomp.pl/)** - Software Developer (X.2002-VI.2005)
-    * McSpalWin - Computer system for petrol station PKN ORLEN S.A. (1600+ stations in Poland).
+  * McSpalWin - Computer system for PKN ORLEN S.A. petrol stations (1600+ locations in Poland)
     * Role: Programmer (sales module, customer management, payments)
 
 * **Applied Mathematics Agency** - Software Developer (I.2001-IX.2002)
-    * Berberis - Customer Relationship Management
-    * IRIS - Reservation ticket system through internet for International Travel Company Jordan.
+  * Berberis - Customer Relationship Management system
+  * IRIS - Online reservation ticket system for International Travel Company Jordan
 
 ### Education:
 
@@ -145,11 +145,11 @@ projects.
 **Other:**
 
 * Certified Kubernetes Application Developer (CKAD) (2022)
-* Apache Cassandra 3 Developer (2020)
-* Administrator Associate Certification (2020)
+* Apache Cassandra 3 Developer Associate (2020)
+* Apache Cassandra 3 Administrator Associate (2020)
 * Neo4j Certified Professional (2020), Neo4j 4.0 Certified (2021)
 * Certified Vaadin 10 Developer, Certified Vaadin 14 Developer, Certified Vaadin 10 Professional (2020)
-* Codility Golden Certificates: 19 Golden and 7 Silver Awards obtained between 2013 and 2022
+* Codility Challenges: 19 Golden and 7 Silver Awards obtained between 2013 and 2022
 
 ### Side projects:
 
@@ -170,4 +170,4 @@ projects.
 
 ---
 
-###### latest update: 27/01/2025
+###### Last updated: May 26, 2025

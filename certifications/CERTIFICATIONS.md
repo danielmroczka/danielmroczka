@@ -16,7 +16,7 @@
         - [Microsoft Certified: Azure Fundamentals AZ900](#microsoft-certified-azure-fundamentals-az900-credly)
         - [Microsoft Certified: Azure Data Fundamentals DP900](#microsoft-certified-azure-data-fundamentals-dp900-credly)
         - [Microsoft Certified: Azure AI Fundamentals AI900](#microsoft-certified-azure-ai-fundamentals-ai900-credly)
-        - [Microsoft Certified: Azure Security Engineer Associate SC900](#microsoft-certified-azure-security-engineer-associate-sc900-credly)
+      - [Microsoft Certified: Security, Compliance, and Identity Fundamentals SC900](#microsoft-certified-security-compliance-and-identity-fundamentals-sc900-credly)
     - [GCP](#gcp)
         - [Google Cloud Associate Cloud Engineer](#google-cloud-associate-cloud-engineer-credly)
         - [Google Cloud Certified Professional Cloud Network Engineer](#google-cloud-certified-professional-cloud-network-engineer-credly)
@@ -48,7 +48,7 @@
     - [Github](#github)
         - [GitHub Foundations](#github-foundations-credly)
     - [Scaled Agile Framework (SAFe)](#scaled-agile-framework-safe)
-    - [ChromeOS Administrator](#ChromeOS-Administrator)
+  - [ChromeOS Administrator](#chromeos-administrator)
 
 ---
 
@@ -88,13 +88,13 @@
 
 ### Alibaba
 
-#### Alibaba Cloud Associate [credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
+#### Alibaba Cloud Associate [credly](https://www.credly.com/badges/alibaba-cloud-associate)
 
 ![Alibaba Cloud Associate](cloud/alibaba/AlibabaCloud%20ACA%20certificate.jpg)
 
 ### Azure
 
-#### Microsoft Certified: Azure Fundamentals AZ900 [credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
+#### Microsoft Certified: Azure Fundamentals AZ900 [credly](https://www.credly.com/badges/azure-fundamentals)
 
 ![Azure Fundamentals AZ900](cloud/azure/Microsoft_Certified_Professional_Certificate_AZ900.jpg)
 
@@ -106,9 +106,9 @@
 
 ![Azure Fundamentals AI900](cloud/azure/Microsoft_Certified_Professional_Certificate_AI900.jpg)
 
-#### Microsoft Certified: Azure Security Engineer Associate SC900 [credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
+#### Microsoft Certified: Security, Compliance, and Identity Fundamentals SC900 [credly](https://www.credly.com/badges/security-compliance-identity-fundamentals)
 
-![Azure Fundamentals SC900](cloud/azure/Microsoft_Certified_Professional_Certificate_SC900.jpg)
+![Microsoft Security, Compliance, and Identity Fundamentals](cloud/azure/Microsoft_Certified_Professional_Certificate_SC900.jpg)
 
 ### GCP
 
@@ -152,15 +152,15 @@
 
 #### Oracle Cloud Infrastructure Developer Associate
 
-![OCI Foundations](cloud/oci/OCI%20Developer%20Associate%20Certificate.jpg)
+![OCI Developer Associate](cloud/oci/OCI%20Developer%20Associate%20Certificate.jpg)
 
 #### Oracle Cloud Infrastructure Architect Associate
 
-![OCI Foundations](cloud/oci/OCI%20Associate%20Architect.jpg)
+![OCI Architect Associate](cloud/oci/OCI%20Associate%20Architect.jpg)
 
 #### Oracle Cloud Infrastructure Architect Professional
 
-![OCI Foundations](cloud/oci/OCI%20Professional%20Architect%20Certificate.jpg)
+![OCI Architect Professional](cloud/oci/OCI%20Professional%20Architect%20Certificate.jpg)
 
 ## DevOps
 
@@ -198,7 +198,7 @@
 
 #### Vaadin 14 Professional
 
-![Vaadin 14 Professsional](vaadin/Vaadin%2014%20Professional.jpg)
+![Vaadin 14 Professional](vaadin/Vaadin%2014%20Professional.jpg)
 
 ### Neo4j
 
