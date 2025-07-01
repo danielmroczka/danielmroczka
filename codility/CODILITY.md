@@ -97,6 +97,11 @@
 
 ![Codility Golden Award for the Year of the Rabbit Challenge](Codility-images-18.jpg)
 
+20. 2023.03 Codility Golden Award for the Pi Code Challenge Challenge
+    https://app.codility.com/cert/view/cert354YKP8CRWJ6ZDBJ-H4S/
+
+![Codility Golden Award for the Pi Code Challenge Challenge](Codility-images-19.jpg)    
+
 ## Silver:
 
 1. 2013.09 Codility Silver Certificate Beryllium 2013
