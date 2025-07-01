@@ -100,7 +100,7 @@
 20. 2023.03 Codility Golden Award for the Pi Code Challenge Challenge
     https://app.codility.com/cert/view/cert354YKP8CRWJ6ZDBJ-H4S/
 
-![Codility Golden Award for the Pi Code Challenge Challenge](Codility-images-19.jpg)    
+![Codility Golden Award for the Pi Code Challenge Challenge](Codility-images-26.jpg)    
 
 ## Silver:
 
