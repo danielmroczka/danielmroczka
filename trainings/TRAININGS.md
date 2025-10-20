@@ -170,6 +170,10 @@
 
 [![Kotlin Expert](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)](Kotlin%20Expert%20-%20Daniel%20Mroczka.jpg)
 
-### Using AI in Business Development [Verify](https://cdn.umiejetnoscijutra.pl/certificates/67bced35-9cf9-4fa9-a9db-c13e81df3dc4)
+### Using AI in Business Development 1st Edition [Verify](https://cdn.umiejetnoscijutra.pl/certificates/67bced35-9cf9-4fa9-a9db-c13e81df3dc4)
 
-[![Using AI in Business Development Certificate](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)
+[![Using AI in Business Development Certificate 1st Edition](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)
+
+### Using AI in Business Development 2nd Edition [Verify](https://cdn.umiejetnoscijutra.pl/certificates/67bced35-9cf9-4fa9-a9db-c13e81df3dc4)
+
+[![Using AI in Business Development Certificate 2nd Edition](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development%202nd%20edition.jpg)](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)
