@@ -24,6 +24,7 @@
         - [Google Cloud Certified Professional Cloud Developer](#google-cloud-certified-professional-cloud-developer-credly)
         - [Google Cloud Certified Professional Machine Learning Engineer](#google-cloud-certified-professional-machine-learning-engineer-credly)
         - [Google Cloud Certified Cloud Digital Leader](#google-cloud-certified-cloud-digital-leader-credly)
+        - [Google Cloud Certified Generative AI Leader](#google-cloud-certified-generative-ai-leader-leader-credly)
     - [OCI](#oci)
         - [Oracle Cloud Infrastructure 2021 Foundations Associate](#oracle-cloud-infrastructure-2021-foundations-associate)
         - [Oracle Cloud Infrastructure 2024 Foundations Associate](#oracle-cloud-infrastructure-2024-foundations-associate)
@@ -134,7 +135,11 @@
 
 #### Google Cloud Certified Cloud Digital Leader (CDL) [credly](https://www.credly.com/badges/ffe42c37-3da5-4bfe-8686-54028689ed61)
 
-![GCP CDL](cloud/gcp/Google%20Cloud%20CDL.jpg)
+![GCP CDL](cloud/gcp/Google%20Cloud%20CDL.jpg)   
+
+#### Google Cloud Certified Generative AI Leader (GAIL) [credly](https://www.credly.com/badges/66c2e5b0-bee6-42e6-b5d7-40b3d25ef0d9)
+
+![GCP GAIL](cloud/gcp/Google%20Cloud%20GAIL.jpg)
 
 ### OCI
 
