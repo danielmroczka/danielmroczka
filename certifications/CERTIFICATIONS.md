@@ -43,7 +43,7 @@
         - [Vaadin 10 Professional](#vaadin-10-professional)
         - [Vaadin 14 Developer](#vaadin-14-developer)
         - [Vaadin 14 Professional](#vaadin-14-professional)
-      - [Vaadin 24 Developer](#vaadin-24-developer)
+        - [Vaadin 24 Developer](#vaadin-24-developer)
     - [Neo4j](#neo4j)
         - [Neo4j Certified Professional](#neo4j-certified-professional)
         - [Neo4j 4.0 Certified](#neo4j-40-certified)
@@ -190,23 +190,23 @@
 
 ### Vaadin
 
-#### Vaadin 10 Developer [credly](https://vaadin.com/learn/certificate/9cbe6d05-6991-4567-913c-eaede8f96761)
+#### Vaadin 10 Developer [credly](https://vaadin.com/learn/certificate/9cbe6d05-6991-4567-913c-eaede8f96761)  
 
 ![Vaadin 10 Developer](vaadin/Vaadin%2010%20Developer.jpg)
 
-#### Vaadin 10 Professional
+#### Vaadin 10 Professional [credly](https://vaadin.com/learn/certificate/113290e8-892c-4800-adeb-444745cf2762)  
 
 ![Vaadin 10 Professional](vaadin/Vaadin%2010%20Professional.jpg)
 
-#### Vaadin 14 Developer
+#### Vaadin 14 Developer [credly](https://vaadin.com/learn/certificate/092c64e3-c8dd-46a2-a33a-75f1c4f19174)  
 
 ![Vaadin 14 Developer](vaadin/Vaadin%2014%20Developer.jpg)
 
-#### Vaadin 14 Professional
+#### Vaadin 14 Professional [credly](https://vaadin.com/learn/certificate/6d2d0215-e181-4561-98a8-a181414ca3b7)  
 
 ![Vaadin 14 Professsional](vaadin/Vaadin%2014%20Professional.jpg)
 
-#### Vaadin 24 Developer
+#### Vaadin 24 Developer [credly](https://vaadin.com/learn/certificate/86f866d4-d85f-4104-a7a0-62fb8896c161)  
 
 ![Vaadin 24 Developer](vaadin/Vaadin%2024%20Developer.jpg)
 
