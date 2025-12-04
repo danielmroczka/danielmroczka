@@ -43,6 +43,7 @@
         - [Vaadin 10 Professional](#vaadin-10-professional)
         - [Vaadin 14 Developer](#vaadin-14-developer)
         - [Vaadin 14 Professional](#vaadin-14-professional)
+      - [Vaadin 24 Developer](#vaadin-24-developer)
     - [Neo4j](#neo4j)
         - [Neo4j Certified Professional](#neo4j-certified-professional)
         - [Neo4j 4.0 Certified](#neo4j-40-certified)
@@ -204,6 +205,10 @@
 #### Vaadin 14 Professional
 
 ![Vaadin 14 Professsional](vaadin/Vaadin%2014%20Professional.jpg)
+
+#### Vaadin 24 Developer
+
+![Vaadin 24 Developer](vaadin/Vaadin%2024%20Developer.jpg)
 
 ### Neo4j
 
