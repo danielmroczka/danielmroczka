@@ -6,4 +6,4 @@ If you want to reach me please have a look at my [Linkedin Profile](https://www.
 
 My favourite tech stack: Java ☕/ Spring Boot / Gradle / GCP / Microservices / Kubernetes / GraalVM
 
-[certifications](certifications/CERTIFICATIONS.md) | [trainings](trainings/TRAININGS.md) | [references](references/REFERENCES.md) | [awards](awards/AWARDS.md) | [codility](codility/CODILITY.md) | [cv](cv/CV.md)
+[certifications](certifications/CERTIFICATIONS.adoc) | [trainings](trainings/TRAININGS.md) | [references](references/REFERENCES.md) | [awards](awards/AWARDS.md) | [codility](codility/CODILITY.md) | [cv](cv/CV.md)
