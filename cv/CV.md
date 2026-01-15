@@ -125,6 +125,7 @@ projects.
 
 **Cloud:**
 
+* GCP GAIL: Google Cloud Certified - Generative AI Leader (2025)
 * GCP DLC: Google Cloud Certified - Digital Leader (2025)
 * GCP PMLE: Google Cloud Certified - Professional Machine Learning Engineer (2024)
 * GCP PCD: Google Cloud Certified - Professional Cloud Developer (2024)
