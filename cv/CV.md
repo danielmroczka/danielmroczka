@@ -12,10 +12,9 @@ Databases.
 Always interested in learning new technologies and walking on unbeaten paths while creating working, usable
 and high-quality software.
 
-Over 20 years of experience in the aviation/travel, petrol, automation, consulting, finance and banking industries,
-working in small (start-ups), medium and large companies. More than 15 years working experience in international teams
-and
-projects.
+Over 25 years of experience in the aviation/travel, petrol, automation, consulting, finance and banking industries,
+working in small (start-ups), medium and large companies. More than 25 years working experience in international teams
+and projects.
 
 ### Work Experience:
 
