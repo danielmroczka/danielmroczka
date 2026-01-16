@@ -166,8 +166,8 @@ and projects.
 
 * Q2 2012 Sabre Individual Technology Award Winner
 * Nominee in Sabre Krakow Wings Recognition Program for Q3 2011 Category: Leadership
-* Q3 and Q4 2010 Sabre Champion - in recognition of outstanding performance and lasting contribution
+* Q3 and Q4 2010 Sabre Champion - recognition of outstanding performance and lasting contribution
 
 ---
 
-###### latest update: 27/01/2025
+###### Latest update: 16/01/2026
