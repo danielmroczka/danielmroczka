@@ -1,122 +1,624 @@
-\documentclass[10pt,a4paper,sans]{article}
-
-% --- PACKAGES ---
-\usepackage[utf8]{inputenc}
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
 \usepackage[T1]{fontenc}
-\usepackage[margin=0.6in]{geometry}
-\usepackage{titlesec}
-\usepackage{enumitem}
-\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+\usepackage{unicode-math}
+\defaultfontfeatures{Scale=MatchLowercase}
+\defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
 \usepackage{xcolor}
-\usepackage{multicol}
+\usepackage{longtable,booktabs,array}
+\usepackage{multirow}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim
+                \Gin@nat@width>\linewidth\linewidth\else
+                \Gin@nat@width
+\fi}
+\def\maxheight{\ifdim
+                 \Gin@nat@height>\textheight\textheight\else
+                 \Gin@nat@height
+\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\usepackage[normalem]{ulem}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+\usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
-% --- STYLING ---
-\definecolor{linkblue}{RGB}{0, 0, 238}
-\hypersetup{colorlinks=true, linkcolor=linkblue, urlcolor=linkblue}
-\urlstyle{same}
-
-\titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
-\titlespacing{\section}{0pt}{10pt}{6pt}
-\setlist[itemize]{leftmargin=1.5em, noitemsep, topsep=2pt}
+\author{}
+\date{}
 
 \begin{document}
 
-% --- HEADER ---
-    \begin{center}
-        {\huge \textbf{DANIEL MROCZKA}} \\
-        \vspace{2pt}
-        \textbf{Senior Java Developer | Passion Driven Developer} \\
-        \vspace{4pt}
-        1220 Vienna, Austria | \href{mailto:daniel.mroczka@gmail.com}{daniel.mroczka@gmail.com} \\
-        \href{https://www.linkedin.com/in/danielmroczka}{linkedin.com/in/danielmroczka}
-    \end{center}
+  \begin{longtable}[]{@{}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3589}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.4350}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2061}}@{}}
+    \toprule()
+    \begin{minipage}[b]{\linewidth}
+          \raggedright
+        DANIEL MROCZKA
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+    \end{minipage} &
+    \multirow{3}{*}{\begin{minipage}[b]{\linewidth}
+                          \raggedright
+                        \includegraphics[width=1.5in,height=1.5in]{media/photo.jpeg}
+    \end{minipage}} \\
+    \multicolumn{2}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.7939} + 2\tabcolsep}}{%
+      \begin{minipage}[b]{\linewidth}
+            \raggedright
+          \begin{longtable}[]{@{}
+              >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2081}}
+              >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7919}}@{}}
+            \toprule()
+            \begin{minipage}[b]{\linewidth}
+                  \raggedright
+                \begin{quote}
+                  Location:
+                \end{quote}
+            \end{minipage} & \begin{minipage}[b]{\linewidth}
+                                   \raggedright
+                                 \begin{quote}
+                                   1220 Vienna, Austria
+                                 \end{quote}
+            \end{minipage} \\
+            \midrule()
+            \endhead
+            \begin{minipage}[t]{\linewidth}
+                  \raggedright
+                \begin{quote}
+                  E-mail:
+                \end{quote}
+            \end{minipage} & \begin{minipage}[t]{\linewidth}
+                                   \raggedright
+                                 \begin{quote}
+                                   \href{mailto:daniel.mroczka@gmail.com}{\nolinkurl{daniel.mroczka@gmail.com}}
+                                 \end{quote}
+            \end{minipage} \\
+            \begin{minipage}[t]{\linewidth}
+                  \raggedright
+                \begin{quote}
+                  Phone:
 
-% --- SUMMARY ---
+                  Website:
+                \end{quote}
+            \end{minipage} & \begin{minipage}[t]{\linewidth}
+                                   \raggedright
+                                 \begin{quote}
+                                   to be provided upon request
 
+                                   \href{https://www.linkedin.com/in/danielmroczka/}{www.linkedin.com/in/danielmroczka}
+                                 \end{quote}
+            \end{minipage} \\
+            \bottomrule()
+          \end{longtable}
+      \end{minipage}} \\
+    \multicolumn{2}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.7939} + 2\tabcolsep}}{%
+      \begin{minipage}[b]{\linewidth}
+            \raggedright
+          \textbf{Summary:}
+      \end{minipage}} \\
+    \midrule()
+    \endhead
+    \multicolumn{3}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{1.0000} + 4\tabcolsep}@{}}{%
+      Self-motivated, self-reliant and a quick learner Passion Driven
+      Developer with background in Java SE, Java EE and Databases. Always
+      interested in learning new technologies and walking on unbeaten paths
+      while creating working, usable and high-quality software. Over 25 years
+      of experience in the aviation/travel, petrol, automation, consulting,
+      finance and banking industries, working in small (start-ups), medium and
+      large companies. 18 years working experience in international teams and
+      projects.} \\
+    \bottomrule()
+  \end{longtable}
 
-    \section{Summary}
-    Self-motivated, self-reliant, and quick learner Passion Driven Developer with a background in Java SE, Java EE, and Databases. Over 25 years of experience in aviation/travel, petrol, automation, consulting, finance, and banking. 18 years of experience in international teams and projects. Always interested in learning new technologies and walking on unbeaten paths while creating high-quality, usable software.
+  \textbf{Work experience:}
 
-% --- WORK EXPERIENCE ---
+  \begin{longtable}[]{@{}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1001}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8999}}@{}}
+    \toprule()
+    \begin{minipage}[b]{\linewidth}
+          \raggedright
+        IV.2023-current
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+                         \href{https://www.erstedigital.com/en/home}{\textbf{Erste Digital GmbH}}
+                         (Vienna) -- \textbf{Senior Java Developer}
 
+                         Responsible for development and maintenance of the Transaction module
+                         and Country Adaptor, supporting banking operations across seven
+                         countries in the CEE region.
+    \end{minipage} \\
+    \midrule()
+    \endhead
+    III.2021-III.2023 & \begin{minipage}[t]{\linewidth}
+                              \raggedright
+                            \href{https://www.dynatrace.com/}{\textbf{Dynatrace Austria GmbH}}
+                            (Vienna) -- \textbf{Senior Java Developer}
 
-    \section{Work Experience}
+                            Implementation of
+                            \href{https://www.dynatrace.com/platform/grail/}{Grail} -
+                          3\textsuperscript{rd} gen storage for logs and metrics (released October
+                          2022)
 
-    \noindent \textbf{Erste Digital GmbH (Vienna)} \hfill \textbf{IV.2023 -- Present} \\
-    \textit{Senior Java Developer}
-    \begin{itemize}
-        \item Development and maintenance of the Transaction module and Country Adaptor.
-        \item Supporting banking operations across seven countries in the CEE region.
-    \end{itemize}
+                            \begin{itemize}
+                              \item
+                              Contributing to project responsible for scaling and distributing
+                              ingestion of data
+                              \item
+                              Member of Engineering Productivity Guild team responsible for
+                              operations and enhancements in preparation for first release of
+                              application into production.
+                              \item
+                              Introducing self-monitoring and dashboards, improvements, inter-team
+                              collaboration
+                            \end{itemize}
+    \end{minipage} \\
+    VIII.2019-II.2021 & \begin{minipage}[t]{\linewidth}
+                              \raggedright
+                            \textbf{\href{https://iov42.com/}{iov42}} British-Austrian Startup
+                          (Vienna, Austria) -- \textbf{Senior Java Developer}
 
-    \vspace{6pt}
-    \noindent \textbf{Dynatrace Austria GmbH (Vienna)} \hfill \textbf{III.2021 -- III.2023} \\
-    \textit{Senior Java Developer}
-    \begin{itemize}
-        \item Implementation of Grail (3rd gen storage for logs and metrics).
-        \item Scaled and distributed data ingestion; member of the Engineering Productivity Guild.
-        \item Introduced self-monitoring, dashboards, and inter-team collaboration tools.
-    \end{itemize}
+                            Implementation of application prototypes and internal microservices
+                            based on the core Blockchain platform invented by iov42. Ready to
+                            demonstrate them to potential investors.
 
-    \vspace{6pt}
-    \noindent \textbf{iov42 British-Austrian Startup (Vienna)} \hfill \textbf{VIII.2019 -- XI.2021} \\
-    \textit{Senior Java Developer}
-    \begin{itemize}
-        \item Implemented prototypes and microservices based on core Blockchain platform.
-        \item Developed Carbon Credit Ecosystem (CCE) and KYC use cases for Banking and Telecom.
-    \end{itemize}
+                            \begin{itemize}
+                              \item
+                              Carbon Credit Ecosystem (CCE) allows carbon credits to be issued
+                              securely
+                              \item
+                              Know Your Customer (KYC) use case for the Banking and
+                              Telecommunication industries
+                            \end{itemize}
+    \end{minipage} \\
+    II.2018-IV.2019 & \begin{minipage}[t]{\linewidth}
+                            \raggedright
+                          \textbf{\href{http://www.automic.com/}{Automic GmbH - acquired by
+                          Broadcom Inc}.} (Vienna, Austria) -- \textbf{Senior Java Engineer}
 
-    \vspace{6pt}
-    \noindent \textbf{Automic GmbH (Broadcom Inc.)} \hfill \textbf{XI.2018 -- IV.2019} \\
-    \textit{Senior Java Engineer}
-    \begin{itemize}
-        \item Implemented features in Rule Engine for the Intelligence Automation team.
-        \item Maintenance of the Automation Web Interface (AWI) project.
-    \end{itemize}
+                          \begin{itemize}
+                            \item
+                            Implementation of new features in the Rule Engine as part of
+                            Intelligence Automation team
+                            \item
+                            Maintenance Automation Web Interface (AWI) project
+                          \end{itemize}
+    \end{minipage} \\
+    XI.2016-I.2018 & \begin{minipage}[t]{\linewidth}
+                           \raggedright
+                         \href{https://www.ebcont.com/}{\textbf{EBCONT enterprise technologies
+                         GmbH}} (Vienna, Austria) -- \textbf{Senior Java EE Consultant}
 
-    \vspace{4pt}
-    \noindent \textit{Earlier experience: EBCONT (2014-2018), Roxcel Group (2012-2014), OpenJaw Technologies (2011-2012), Anachron (2010-2011), Sabre Holdings (2006-2010), Fortis Bank (2005-2006).}
+                         \begin{itemize}
+                           \item
+                           Implementation of new features in \emph{IPS} application
+                           \href{https://www.ksv.at/}{KSV1870}
+                           \item
+                           Implementation from scratch
+                           \href{http://www.redbullstudios.com/}{\emph{Red Bull Studio}} booking
+                           application for \href{https://www.redbull.com}{Red Bull}
+                           \item
+                           Implementation of new features in application \emph{e-zoll} (e-custom)
+                           for \href{https://www.brz.gv.at/}{Bundesrechenzentrum (BRZ)}
+                         \end{itemize}
+    \end{minipage} \\
+    I.2015-X.2016 & \begin{minipage}[t]{\linewidth}
+                          \raggedright
+                        \href{http://www.lerox.at/}{\textbf{LEROX Datenverarbeitung GmbH}} part
+                      of Roxcel Group (Vienna, Austria) -- \textbf{Senior Java Developer}
 
-% --- TECHNICAL SKILLS ---
+                        \begin{itemize}
+                          \item
+                          Development of bookkeeping software
+                          \href{http://www.lerox.at/produkte/jabacus/}{JAbacus} (full
+                          development cycle)
+                        \end{itemize}
+    \end{minipage} \\
+    II.2014-IX.2014 & \begin{minipage}[t]{\linewidth}
+                            \raggedright
+                          \href{http://openjawtech.com/}{\textbf{OpenJaw Technologies}} (Irish
+                          travel technology company) -- \textbf{Senior Software Engineer}
 
+                          \begin{itemize}
+                            \item
+                            Implementation Event Booking Mobile Web Application (Proof of Concept)
+                            \item
+                            Development of new features for Platform team (core functionalities)
+                            and S7 Airline
+                          \end{itemize}
+    \end{minipage} \\
+    IX.2013-I.2014 & \begin{minipage}[t]{\linewidth}
+                           \raggedright
+                         \href{http://www.anachron.com/}{\textbf{Anachron}} (Dutch e-Documents'
+                         service provider) -- \textbf{Senior Java Developer}
 
-    \section{Technical Skills}
-    \begin{itemize}
-        \item \textbf{Languages:} Java, Groovy, Kotlin, SQL, PL/SQL, JavaScript.
-        \item \textbf{Frameworks:} Spring (Boot, Cloud, Data, MVC), Hibernate, JPA, JAX-RS, Vaadin.
-        \item \textbf{Cloud \& DevOps:} GCP, Azure, AWS, OCI, Kubernetes (CKAD), Docker, Terraform, Git, Jenkins.
-        \item \textbf{Databases:} Oracle, PostgreSQL, MongoDB, Cassandra, Neo4j.
-    \end{itemize}
+                         \begin{itemize}
+                           \item
+                           Development of e-invoicing SaaS applications
+                           \item
+                           Building new office and team as one of the first employees in polish
+                           office
+                         \end{itemize}
+    \end{minipage} \\
+    IX.2008-VII.2013 & \begin{minipage}[t]{\linewidth}
+                             \raggedright
+                           \href{http://www.sabre.com}{\textbf{Sabre Holdings}} (American travel
+                           technology company) - \textbf{Senior Java Developer / Analyst}
 
-% --- CERTIFICATIONS ---
+                           \begin{itemize}
+                             \item
+                             Designing and developing Traveler Profile Admin, Agent and User Roles
+                             applications (from scratch to production release) - Participation in
+                             the full Software (Agile) Development Life Cycle
+                             \item
+                             Leadership in designing, mentoring other developers and newcomers,
+                             technical recruitment
+                           \end{itemize}
+    \end{minipage} \\
+    IV.2007-VIII.2008 & \begin{minipage}[t]{\linewidth}
+                              \raggedright
+                            \textbf{InLoop sp. z o.o} (Norwegian technology startup) - \textbf{Head
+                          Programmer / Project Manager}
 
+                            \begin{itemize}
+                              \item
+                              \begin{quote}
+                                Designing and developing expert system for industry use in detection
+                                of failure in hydraulic and mechanical systems (Statoil).
+                              \end{quote}
+                              \item
+                              \begin{quote}
+                                Cooperation with technical consultants during implementation of
+                                algorithms
+                              \end{quote}
+                            \end{itemize}
+    \end{minipage} \\
+    XI.2006-III.2007 & \begin{minipage}[t]{\linewidth}
+                             \raggedright
+                           \textbf{\href{http://www.bnpparibas.pl/}{Fortis Bank Polska S.A.}}
+                           (nowadays part of BNP Paribas Fortis) \textbf{-} \textbf{Software
+                         Developer}
 
-    \section{Certifications (Selected 2020--2025)}
-    \begin{multicols}{2}
-        \begin{itemize}
-            \item \textbf{GCP:} Prof. Cloud Architect, Network Engineer, ML Engineer, GenAI Leader (2025).
-            \item \textbf{Azure:} AZ-900, DP-900, AI-900, SC-900.
-            \item \textbf{OCI:} Architect Professional, Developer Associate, AI Foundations (2025).
-            \item \textbf{DevOps:} CKAD (Kubernetes), AWS Cloud Practitioner.
-            \item \textbf{Data:} Apache Cassandra 3 Dev, Neo4j Prof.
-            \item \textbf{Awards:} 20 Codility Golden Awards.
-        \end{itemize}
-    \end{multicols}
+                           \begin{itemize}
+                             \item
+                             Core Banking Retail Application -- designing and developing banking
+                             system based on T24
+                             \item
+                             \begin{quote}
+                               Application Development Group -- developing existing banking system.
+                             \end{quote}
+                           \end{itemize}
+    \end{minipage} \\
+    X.2002-VI.2005 & \begin{minipage}[t]{\linewidth}
+                           \raggedright
+                         \textbf{\href{http://www.mccomp.pl/}{McComp S.A.} - Software Developer}
 
-% --- EDUCATION ---
+                         \begin{itemize}
+                           \item
+                           \begin{quote}
+                             \begin{quote}
+                               \href{http://translate.google.com/translate?hl=en\&sl=pl\&tl=en\&u=https\%3A\%2F\%2Fwww.mccomp.pl\%2Fmcspal}{McSpalWin}
+                               - Computer system for petrol station \href{http://www.orlen.pl/EN}{PKN
+                               ORLEN S.A.} (1600+ stations in Poland). Role: Programmer (sales
+                               module, customer management, payments)
+                             \end{quote}
+                           \end{quote}
+                         \end{itemize}
+    \end{minipage} \\
+    I.2001-IX.2002 & \begin{minipage}[t]{\linewidth}
+                           \raggedright
+                         \textbf{\href{http://bms.krakow.pl/english}{Applied Mathematics Agency}
+                         -} \textbf{Software Developer}
 
+                         \begin{itemize}
+                           \item
+                           \begin{quote}
+                             \href{https://bms.krakow.pl/english/berberis-crm-erp/}{Berberis} -
+                             Customer Relationship Management
+                           \end{quote}
+                         \end{itemize}
 
-    \section{Education}
-    \noindent \textbf{AGH University of Science and Technology, Cracow} \hfill \textbf{2003 -- 2006} \\
-    M.Sc. in Computer Science (Computer Systems)
+                         \begin{itemize}
+                           \item
+                           \begin{quote}
+                             IRIS -- Reservation ticket system through internet for International
+                             Travel Company \href{https://travel.jordan.pl/en}{Jordan}.
+                           \end{quote}
+                         \end{itemize}
+    \end{minipage} \\
+    \bottomrule()
+  \end{longtable}
 
-    \noindent \textbf{Cracow University of Economics} \hfill \textbf{2007 -- 2008} \\
-    Postgraduate in Economy (Financial Markets Analysis)
+  \textbf{Education:}
 
-% --- LANGUAGES ---
+  \begin{longtable}[]{@{}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1272}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8728}}@{}}
+    \toprule()
+    \begin{minipage}[b]{\linewidth}
+          \raggedright
+        2007-2008
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+                         \textbf{Postgraduate in Economy}, with a specialization in Financial
+                       Markets Analysis and Investment Advice at
+                         \href{http://nowa.uek.krakow.pl/en}{Cracow University of Economics}
+    \end{minipage} \\
+    \midrule()
+    \endhead
+    2003-2006 & \begin{minipage}[t]{\linewidth}
+                      \raggedright
+                    \begin{quote}
+                      \href{https://app.box.com/s/zgnvwpqojbx07iu2e8d1boc8gs4qels9}{\textbf{M.Sc.
+                      in Computer Science}}, with a specialization in Computer Systems at
+                      \href{http://agh.edu.pl/en}{AGH} University of Science and Technology in
+                      Cracow.
+                    \end{quote}
 
+                    M.Sc. thesis:
+                    \emph{\href{https://app.box.com/s/bh2ftwu0ljy1lm0oqjyp7bqdms1edd54}{Application
+                    of Neural Network Data Exploration Methods for Stock Market Data
+                    Forecasting and Analysis}.}
+    \end{minipage} \\
+    1998-2003 & \begin{minipage}[t]{\linewidth}
+                      \raggedright
+                    \begin{quote}
+                      \href{https://app.box.com/s/rr3qflne8ev7jr9if515q252mmfgi89y}{\textbf{B.Sc.
+                      in Electronics and Telecommunications}}, with a specialization in
+                      Electronic Equipment Designing at \href{http://agh.edu.pl/en}{AGH}
+                      University of Science and Technology in Cracow.
+                    \end{quote}
 
-    \section{Languages}
-    English (Advanced), Polish (Native), German (Basic).
+                    B.Sc. thesis:
+                    \href{https://app.box.com/s/yq4gh8u7audai2qeor8ica0pb1c6wfxg}{\emph{Acoustic
+                    signal processing in distributed network TCP/IP}}
+    \end{minipage} \\
+    \bottomrule()
+  \end{longtable}
+
+  \textbf{Technical skills:}
+
+  \begin{longtable}[]{@{}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1513}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8487}}@{}}
+    \toprule()
+    \begin{minipage}[b]{\linewidth}
+          \raggedright
+        Languages:
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+                         Java, Groovy, Kotlin, SQL, PL/SQL, ActionScript, Pascal, C/C++ (passive)
+    \end{minipage} \\
+    \midrule()
+    \endhead
+    IDE: & Intellij Idea, Android Studio, NetBeans, Eclipse, JDeveloper, VS
+    Code \\
+    Databases: & Oracle, MS SQL, MySQL, PostgreSQL, Embedded (H2), MongoDB,
+    Apache Cassandra \\
+    Java EE: & Java Servlet, JSP, CDI, EJB 3.0, JSF (basic), JMS (basic) \\
+    Persistence: & JDBC, JPA, Hibernate \\
+    Web Services: & JAX-WS, SOAP, JAXP, JAXB, XML, XSD; RESTful: JAX-RS
+    (Jersey, RESTEasy) \\
+    Frameworks: & Spring: Core, Boot, Data, Rest, Cloud, MVC \\
+    AS/Containers: & Glassfish, JBoss/WildFly, Apache Tomcat, Jetty \\
+    Web: & Basic knowledge of: HTML5, CSS3, JavaScript, AngularJS, Ajax,
+    Flex 3.0, RWD \\
+    VCS: & Git (GitHub, GitLab, BitBucket), SVN, CVS \\
+    Build tools: & Gradle, Maven, Ant, Ivy, Sonatype Nexus \\
+    Testing: & JUnit, Mockito, TestNG, FlexUnit, JMeter, TDD \\
+    Tools: & Jira, Version One, Crucible, Continuous Integration and
+    Delivery (TeamCity, Jenkins), SoapUI, Static Code Analysis (PMD, CPD,
+    Findbugs, Checkstyle), Cobertura, SonarQube \\
+    Other: & Kubernetes, Docker, Agile, Object Oriented Programing, Design
+    Patterns (GoF), Clean Code Principles, UML, RegExp, OSGi /Eclipse
+    RCP(basic), Android and
+    \href{https://play.google.com/store/apps/details?id=com.labs.dm.auto_tethering}{Google
+    Play Developer} \\
+    \bottomrule()
+  \end{longtable}
+
+  \textbf{\href{https://github.com/danielmroczka/danielmroczka/blob/main/certifications/CERTIFICATIONS.md}{Certifications}\uline{:}}
+
+  \begin{quote}
+    \uline{Java:}
+
+    CX 310-055 - Sun Certified Programmer for the Java 2 Platform Standard
+    Edition 5.0 (SCJP) \textsubscript{2006}
+
+    CX 310-081 - Sun Certified Web Component Developer for the J2EE 1.4
+    (SCWCD) \textsubscript{2006}
+
+    CX 311-011 - Sun Certified Specialist NetBeans IDE (SCSNI)
+    \textsubscript{2008}
+  \end{quote}
+
+  \hypertarget{z0-860---oracle-certified-professional-java-ee-5-business-component-developer-2011}{%
+    \subsubsection{\texorpdfstring{1Z0-860 - Oracle Certified Professional
+    Java EE 5 Business Component Developer
+    \textsubscript{2011}}{1Z0-860 - Oracle Certified Professional Java EE 5 Business Component Developer 2011}}\label{z0-860---oracle-certified-professional-java-ee-5-business-component-developer-2011}}
+
+  \hypertarget{z0-897---oracle-certified-expert-java-ee-6-web-services-developer-2012}{%
+    \subsubsection{\texorpdfstring{1Z0-897 - Oracle Certified Expert, Java
+    EE 6 Web Services Developer
+    \textsubscript{2012}}{1Z0-897 - Oracle Certified Expert, Java EE 6 Web Services Developer 2012}}\label{z0-897---oracle-certified-expert-java-ee-6-web-services-developer-2012}}
+
+  1Z0-898 - Oracle Certified Expert, Java EE 6 Java Persistence API
+  Developer \textsubscript{2012}
+
+  1Z0-007 - Introduction to Oracle9i: SQL \textsubscript{2007}
+
+  \uline{Cloud}:
+
+  GCP ACE: Google Cloud Certified - Associate Cloud Engineer
+  \textsubscript{2023}
+
+  GCP PCNE: Google Cloud Certified - Professional Cloud Network Engineer
+  \textsubscript{2023}
+
+  GCP PCA: Google Cloud Certified -- Professional Cloud Architect
+  \textsubscript{2024}
+
+  GCP PCD: Google Cloud Certified -- Professional Cloud Developer
+  \textsubscript{2024}
+
+  GCP MLE: Google Cloud Certified -- Professional Machine Learning
+  \textsubscript{2024}
+
+  GCP CDL: Google Cloud Certified -- Cloud Digital Learning
+  \textsubscript{2025}
+
+  GCP GAIL: Google Cloud Certified -- Generative AI Leader
+  \textsubscript{2025}
+
+  Azure AZ-900 Microsoft Certified Azure Fundamentals \textsubscript{2020}
+
+  Azure DP-900 Azure Data Fundamentals \textsubscript{2022}
+
+  Azure AI-900 Azure AI Fundamentals \textsubscript{2022}
+
+  Azure SC-900 Security, Compliance and Identity Fundamentals
+  \textsubscript{2022}
+
+  AWS Certified Cloud Practitioner \textsubscript{2022}
+
+  OCI 1Z0-1085-21 Foundations Associate \textsubscript{2021}
+
+  OCI 1Z0-1084-21 Developer Associate \textsubscript{2021}
+
+  OCI 1Z0-1072-21 Architect Associate \textsubscript{2021}
+
+  OCI 1Z0-997-21 Architect Professional \textsubscript{2021}
+
+  OCI 1Z0-1122-25 AI Foundations Associate \textsubscript{2025}
+
+  ACA Alibaba Cloud Associate Cloud Computing \textsubscript{2022}
+
+  \uline{Other:}
+
+  Certified Kubernetes Application Developer (CKAD) \textsubscript{2022}
+
+  Apache Cassandra 3 Developer \textsubscript{2020}
+
+  Administrator Associate Certification \textsubscript{2020}
+
+  Neo4j Certified Professional \textsubscript{2020}, Neo4j 4.0 Certified
+  \textsubscript{2021}
+
+  Certified Vaadin 10 Developer, 14 Developer, 24 Developer, 10
+  Professional and 14 Professional \textsubscript{2020}
+
+  \href{https://github.com/danielmroczka/danielmroczka/blob/main/codility/CODILITY.md}{Codility
+  Golden Certificates}: 20 Golden and 7 Silver Awards obtained between
+  2013 and 2025
+
+  \textbf{Side projects:}
+
+  \href{https://play.google.com/store/apps/details?id=com.labs.dm.auto_tethering}{Auto
+  WiFi Tethering} -- Android application that helps share an internet
+  connection (2016-2019).
+
+  \textbf{Language skills:}
+
+  \begin{longtable}[]{@{}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.0956}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.2606}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1034}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.2155}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.0820}}
+      >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.2429}}@{}}
+    \toprule()
+    \begin{minipage}[b]{\linewidth}
+          \raggedright
+        English:
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+                         advanced
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+                         German:
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+                         basic
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+                         Polish:
+    \end{minipage} & \begin{minipage}[b]{\linewidth}
+                           \raggedright
+                         native
+    \end{minipage} \\
+    \midrule()
+    \endhead
+    \bottomrule()
+  \end{longtable}
+
+  \textbf{\href{https://app.box.com/s/rv0j3nxxv3nd769xpp3v}{Awards and
+  recognition}:}
+
+  \begin{itemize}
+    \item
+    Q2 2012 Sabre Individual Technology Award Winner
+    \item
+    Nominee in Sabre Krakow Wings Recognition Program for Q3 2011,
+    Category: Leadership
+    \item
+    Q3 and Q4 2010 Sabre Champion -- recognized for outstanding
+    performance and lasting contribution.
+  \end{itemize}
 
 \end{document}
