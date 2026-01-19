@@ -1,0 +1,174 @@
+= DANIEL MROCZKA
+:doctype: article
+:icons: font
+:sectnums!:
+:toc: left
+:toc-title: Contents
+
+[.text-center]
+1220 Vienna, Austria | daniel.mroczka@gmail.com | link:https://www.linkedin.com/in/danielmroczka[LinkedIn] +
+*Phone:* To be provided upon request
+
+== Summary
+Self-motivated, self-reliant, and quick learner. Passion Driven Developer with a background in Java SE, Java EE, and Databases. Always interested in learning new technologies and walking on unbeaten paths while creating working, usable, and high-quality software. Over 25 years of experience in the aviation/travel, petrol, automation, consulting, finance, and banking industries, working in small (start-ups), medium, and large companies. 18 years of working experience in international teams and projects.
+
+== Work Experience
+
+=== Senior Java Developer | Erste Digital GmbH (Vienna)
+*IV.2023 – Current*
+
+* Responsible for development and maintenance of the Transaction module and Country Adaptor.
+* Supporting banking operations across seven countries in the CEE region.
+
+=== Senior Java Developer | Dynatrace Austria GmbH (Vienna)
+*III.2021 – III.2023*
+
+* Implementation of **Grail** – 3rd gen storage for logs and metrics (released October 2022).
+* Contributing to project responsible for scaling and distributing ingestion of data.
+* Member of **Engineering Productivity Guild** team; responsible for operations and enhancements in preparation for the first release of application into production.
+* Introducing self-monitoring, dashboards, improvements, and inter-team collaboration.
+
+=== Senior Java Developer | iov42 British-Austrian Startup (Vienna)
+*VIII.2019 – 11.2021*
+
+* Implementation of application prototypes and internal microservices based on the core **Blockchain** platform.
+* *Carbon Credit Ecosystem (CCE):* Allows carbon credits to be issued securely.
+* *Know Your Customer (KYC):* Use case for the Banking and Telecommunication industries.
+
+=== Senior Java Engineer | Automic GmbH - acquired by Broadcom Inc. (Vienna)
+*11.2018 – IV.2019*
+
+* Implementation of new features in the **Rule Engine** as part of the Intelligence Automation team.
+* Maintenance of the **Automation Web Interface (AWI)** project.
+
+=== Senior Java EE Consultant | EBCONT enterprise technologies GmbH (Vienna)
+*XI.2016 – 1.2018*
+
+* Implementation of new features in IPS application **KSV1870**.
+* Implementation from scratch of the **Red Bull Studio** booking application.
+* Implementation of new features in application **e-zoll (e-custom)** for Bundesrechenzentrum (BRZ).
+
+=== Senior Java Developer | LEROX Datenverarbeitung GmbH / Roxcel Group (Vienna)
+*1.2015 – X.2016*
+
+* Development of bookkeeping software **JAbacus** (full development cycle).
+
+=== Senior Software Engineer | OpenJaw Technologies (Irish travel technology company)
+*11.2014 – IX.2014*
+
+* Implementation of Event Booking Mobile Web Application (Proof of Concept).
+* Development of new features for the Platform team (core functionalities) and S7 Airline.
+
+=== Senior Java Developer | Anachron (Dutch e-Documents service provider)
+*IX.2013 – 1.2014*
+
+* Development of e-invoicing SaaS applications.
+* Building a new office and team as one of the first employees in the Polish office.
+
+=== Senior Java Developer / Analyst | Sabre Holdings
+*IX.2008 – VII.2013*
+
+* Designing and developing **Traveler Profile Admin**, Agent, and User Roles applications (from scratch to production release).
+* Participation in the full Software (Agile) Development Life Cycle.
+* Leadership in designing, mentoring other developers/newcomers, and technical recruitment.
+
+=== Head Programmer / Project Manager | InLoop sp. z o.o (Norwegian startup)
+*IV.2007 – VIII.2008*
+
+* Designing and developing expert system for industry use in detection of failure in hydraulic and mechanical systems (**Statoil**).
+* Cooperation with technical consultants during implementation of algorithms.
+
+=== Software Developer | Fortis Bank Polska S.A. (now BNP Paribas Fortis)
+*XI.2006 – III.2007*
+
+* **Core Banking Retail Application** – designing and developing banking system based on **T24**.
+* Application Development Group – developing existing banking system.
+
+=== Software Developer | McComp S.A.
+*X.2002 – VI.2005*
+
+* **McSpalWin** – Computer system for petrol station **PKN ORLEN S.A.** (1600+ stations).
+* Role: Programmer (sales module, customer management, payments).
+
+=== Software Developer | Applied Mathematics Agency
+*1.2001 – IX.2002*
+
+* **Berberis** – Customer Relationship Management.
+* **IRIS** – Reservation ticket system through internet for International Travel Company Jordan.
+
+== Education
+
+* *2007–2008:* **Postgraduate in Economy** | Cracow University of Economics
+** Specialization: Financial Markets Analysis and Investment Advice.
+* *2003–2006:* **M.Sc. in Computer Science** | AGH University of Science and Technology in Cracow
+** Specialization: Computer Systems.
+** Thesis: Application of Neural Network Data Exploration Methods for Stock Market Data Forecasting and Analysis.
+* *1998–2003:* **B.Sc. in Electronics and Telecommunications** | AGH University of Science and Technology in Cracow
+** Specialization: Electronic Equipment Designing.
+** Thesis: Acoustic signal processing in distributed network TCP/IP.
+
+== Technical Skills
+
+[cols="1,3"]
+|===
+| Category | Skills
+
+| **Languages** | Java, Groovy, Kotlin, SQL, PL/SQL, ActionScript, Pascal, C/C++ (passive)
+| **IDE** | IntelliJ IDEA, Android Studio, NetBeans, Eclipse, JDeveloper, VS Code
+| **Databases** | Oracle, MS SQL, MySQL, PostgreSQL, Embedded (H2), MongoDB, Apache Cassandra
+| **Java EE** | Java Servlet, JSP, CDI, EJB 3.0, JSF (basic), JMS (basic)
+| **Persistence** | JDBC, JPA, Hibernate
+| **Web Services**| JAX-WS, SOAP, JAXP, JAXB, XML, XSD; RESTful: JAX-RS (Jersey, RESTEasy)
+| **Frameworks** | Spring: Core, Boot, Data, Rest, Cloud, MVC
+| **AS/Containers**| Glassfish, JBoss/WildFly, Apache Tomcat, Jetty
+| **Web** | HTML5, CSS3, JavaScript, AngularJS, Ajax, Flex 3.0, RWD
+| **VCS** | Git (GitHub, GitLab, BitBucket), SVN, CVS
+| **Build/Test** | Gradle, Maven, Ant, Ivy, Sonatype Nexus, JUnit, Mockito, TestNG, FlexUnit, JMeter, TDD
+| **Tools** | Jira, Version One, Crucible, CI/CD (TeamCity, Jenkins), SoapUI, Static Code Analysis (PMD, Checkstyle, SonarQube)
+| **Other** | Kubernetes, Docker, Agile, OOP, Design Patterns (GoF), Clean Code, UML, RegExp, Android
+|===
+
+== Certifications
+
+=== Java & Database
+* **SCJP** - Sun Certified Programmer for Java 5.0 (2006)
+* **SCWCD** - Sun Certified Web Component Developer for J2EE 1.4 (2006)
+* **SCSNI** - Sun Certified Specialist NetBeans IDE (2008)
+* **OCP** - Oracle Certified Professional Java EE 5 Business Component Developer (2011)
+* **OCE** - Oracle Certified Expert, Java EE 6 Web Services Developer (2012)
+* **OCE** - Oracle Certified Expert, Java EE 6 Java Persistence API Developer (2012)
+* **Oracle 9i SQL** - Introduction to Oracle9i: SQL (2007)
+* **Apache Cassandra 3 Developer** (2020)
+* **Neo4j Certified Professional** (2020), Neo4j 4.0 Certified (2021)
+
+=== Cloud (GCP, Azure, AWS, OCI, Alibaba)
+* **GCP ACE:** Associate Cloud Engineer (2023)
+* **GCP PCNE:** Professional Cloud Network Engineer (2023)
+* **GCP PCA:** Professional Cloud Architect (2024)
+* **GCP PCD:** Professional Cloud Developer (2024)
+* **GCP MLE:** Professional Machine Learning (2024)
+* **GCP CDL:** Cloud Digital Learning (2025)
+* **GCP GAIL:** Generative AI Leader (2025)
+* **Azure:** AZ-900 Fundamentals (2020), DP-900 Data (2022), AI-900 AI (2022), SC-900 Security (2022)
+* **AWS:** Certified Cloud Practitioner (2022)
+* **OCI (Oracle):** Foundations (2021), Developer Associate (2021), Architect Associate (2021), Architect Professional (2021), AI Foundations Associate (2025)
+* **Alibaba:** ACA Cloud Computing (2022)
+
+=== Other Certifications
+* **CKAD:** Certified Kubernetes Application Developer (2022)
+* **Administrator Associate Certification** (2020)
+* **Vaadin:** Developer (10, 14, 24) and Professional (10, 14) (2020)
+* **Codility Golden Certificates:** 20 Golden and 7 Silver Awards (2013–2025)
+
+== Side Projects
+* **Auto WiFi Tethering:** Android application that helps share an internet connection (2016-2019).
+
+== Language Skills
+* **English:** Advanced
+* **Polish:** Native
+* **German:** Basic
+
+== Awards and Recognition
+* **Q2 2012:** Sabre Individual Technology Award Winner.
+* **Q3 2011:** Nominee in Sabre Krakow Wings Recognition Program (Category: Leadership).
+* **Q3 & Q4 2010:** Sabre Champion - recognized for outstanding performance.
