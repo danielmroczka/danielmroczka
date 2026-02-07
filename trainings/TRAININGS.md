@@ -171,6 +171,10 @@ https://verify.acloud.guru/7F534EC08964
 
 [![Using AI in Business Development](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)
 
+### Using AI in Business Development 2nd edition [link](https://cdn.umiejetnoscijutra.pl/certificates/c8b69cfa-99e6-4e3e-9ecc-f53950a18129)
+
+[![Using AI in Business Development](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development%202nd%20edition.jpg)](Daniel%20Mroczka%20-%20Using%20AI%20in%20Business%20Development.jpg)
+
 ### EclipseStore Advanced Training
 
-[![EclipseStore Advance Training](EclipseStore.jpg)
+![EclipseStore Advance Training](EclipseStore.jpg)
