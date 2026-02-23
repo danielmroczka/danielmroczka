@@ -25,6 +25,7 @@
 *** xref:google-cloud-certified-professional-machine-learning-engineer-mle[Google Cloud Certified Professional Machine Learning Engineer]
 *** xref:google-cloud-certified-cloud-digital-leader-cdl[Google Cloud Certified Cloud Digital Leader]
 *** xref:google-cloud-certified-generative-ai-leader-gail[Google Cloud Certified Generative AI Leader]
+*** xref:google-cloud-certified-professional-data-engineer[Google Cloud Certified Professional Data Engineer]
 ** xref:oci[OCI]
 *** xref:oracle-cloud-infrastructure-2021-foundations-associate[Oracle Cloud Infrastructure 2021 Foundations Associate]
 *** xref:oracle-cloud-infrastructure-2024-foundations-associate[Oracle Cloud Infrastructure 2024 Foundations Associate]
@@ -145,6 +146,10 @@ image::cloud/gcp/Google%20Cloud%20CDL.jpg[GCP CDL,width=800]
 ==== Google Cloud Certified Generative AI Leader (GAIL) link:https://www.credly.com/badges/66c2e5b0-bee6-42e6-b5d7-40b3d25ef0d9[credly]
 
 image::cloud/gcp/Google%20Cloud%20GAIL.jpg[GCP GAIL,width=800]
+
+==== Google Cloud Certified Professional Data Engineer (PDE) link:https://www.credly.com/badges/fcbf109d-ec98-4042-8f05-36f7a54607bf[credly]
+
+image::cloud/gcp/Google Cloud PDE.jpg[GCP PDE,width=800]
 
 [[oci]]
 === OCI
