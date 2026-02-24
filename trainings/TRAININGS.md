@@ -110,6 +110,10 @@
 
 ![GCP](gcp/Daniel_Mroczka%20-%20Getting%20Started%20with%20Google%20Kubernetes%20Engine.jpg)
 
+### Google Cloud Fundamentals: Core Infrastructure 2026
+
+![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Fundamentals%20-%20Core%20infrastructure%202026.jpg)
+
 ## MongoDB
 
 ### M102: MongoDB for DBAs
