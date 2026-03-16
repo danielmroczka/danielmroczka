@@ -114,13 +114,13 @@
 
 ![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Fundamentals%20-%20Core%20infrastructure%202026.jpg)
 
-### GenAI Leader - Internation Women's Day Edition 2026
-
-![GCP](gcp/Daniel%20Mroczka%20-%20Google%20GenAI%20Leader.jpg)
-
 ### Introduction to AI and Machine Learning on Google Cloud 2026
 
 ![GCP](gcp/Daniel%20Mroczka%20-%20Introduction%20to%20AI%20and%20ML%20on%20Google%20Cloud.jpg)
+
+### GenAI Leader - Internation Women's Day Edition 2026
+
+![GCP](gcp/Daniel%20Mroczka%20-%20Google%20GenAI%20Leader.jpg)
 
 ## MongoDB
 
