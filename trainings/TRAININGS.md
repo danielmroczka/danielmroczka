@@ -120,7 +120,7 @@
 
 ### Introduction to AI and Machine Learning on Google Cloud 2026
 
-![GCP](gcp/Daniel%20Mroczka%20-%20Introduction%20tovAI%20and%20ML%20on%20Google%20Cloud.jpg)
+![GCP](gcp/Daniel%20Mroczka%20-%20Introduction%20to%20AI%20and%20ML%20on%20Google%20Cloud.jpg)
 
 ## MongoDB
 
