@@ -26,6 +26,7 @@
         - [Google Cloud Certified Cloud Digital Leader](#google-cloud-certified-cloud-digital-leader-cdl-credly)
         - [Google Cloud Certified Generative AI Leader](#google-cloud-certified-generative-ai-leader-gail-credly)
         - [Google Cloud Certified Professional Cloud DevOps Engineer](#google-cloud-certified-professional-cloud-devops-engineer-credly)
+        - [Google Cloud Certified Professional Cloud Security Engineer](#google-cloud-certified-professional-cloud-security-engineer-credly)
     - [OCI](#oci)
         - [Oracle Cloud Infrastructure 2021 Foundations Associate](#oracle-cloud-infrastructure-2021-foundations-associate)
         - [Oracle Cloud Infrastructure 2024 Foundations Associate](#oracle-cloud-infrastructure-2024-foundations-associate)
