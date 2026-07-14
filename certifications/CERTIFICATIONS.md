@@ -147,7 +147,7 @@
 
 ![GCP Devops](cloud/gcp/Google%20Cloud%20Devops.jpg)
 
-#### Google Cloud Professional Cloud Security Engineer [credly](https://www.credly.com/badges/5d891673-6ab2-4b6a-859d-729dce78751b)
+#### Google Cloud Certified Professional Cloud Security Engineer [credly](https://www.credly.com/badges/5d891673-6ab2-4b6a-859d-729dce78751b)
 
 ![GCP Security](cloud/gcp/Google%20Cloud%20Security%20Engineer.jpg)
 
