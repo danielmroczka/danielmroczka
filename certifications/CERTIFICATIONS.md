@@ -25,6 +25,7 @@
         - [Google Cloud Certified Professional Machine Learning Engineer](#google-cloud-certified-professional-machine-learning-engineer-mle-credly)
         - [Google Cloud Certified Cloud Digital Leader](#google-cloud-certified-cloud-digital-leader-cdl-credly)
         - [Google Cloud Certified Generative AI Leader](#google-cloud-certified-generative-ai-leader-gail-credly)
+        - [Google Cloud Certified Professional Cloud DevOps Engineer](#google-cloud-certified-professional-cloud-devops-engineer-credly)
     - [OCI](#oci)
         - [Oracle Cloud Infrastructure 2021 Foundations Associate](#oracle-cloud-infrastructure-2021-foundations-associate)
         - [Oracle Cloud Infrastructure 2024 Foundations Associate](#oracle-cloud-infrastructure-2024-foundations-associate)
@@ -142,6 +143,14 @@
 
 ![GCP GAIL](cloud/gcp/Google%20Cloud%20GAIL.jpg)
 
+#### Google Cloud Certified Professional Cloud DevOps Engineer [credly](https://www.credly.com/badges/1928e075-0134-4489-aa80-26571ecfb548)
+
+![GCP Devops](cloud/gcp/Google%20Cloud%20DevOps.jpg)
+
+#### Google Cloud Professional Cloud Security Engineer [credly](https://www.credly.com/badges/5d891673-6ab2-4b6a-859d-729dce78751b)
+
+![GCP Security](cloud/gcp/Google%20Cloud%20Security%20Engineer.jpg)
+
 ### OCI
 
 #### Oracle Cloud Infrastructure 2021 Foundations Associate
@@ -234,4 +243,4 @@
 
 #### ChromeOS Administrator
 
-![Google ChromeOS Administrator](other/Google%20ChromeOS%20Administrator.jpg) 
+![Google ChromeOS Administrator](other/Google%20ChromeOS%20Administrator.jpg)
