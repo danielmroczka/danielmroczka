@@ -139,7 +139,7 @@
 
 #### Google Cloud Certified Professional Data Engineer (PDE) [credly](https://www.credly.com/badges/fcbf109d-ec98-4042-8f05-36f7a54607bf)
 
-![GCP PDE](cloud/gcp/Google%20Cloud%20Data%20Engineer.jpg)
+![GCP PDE](cloud/gcp/Google%20Cloud%20Data%20PDE.jpg)
 
 #### Google Cloud Certified Cloud Digital Leader (CDL) [credly](https://www.credly.com/badges/ffe42c37-3da5-4bfe-8686-54028689ed61)
 
