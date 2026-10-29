@@ -23,6 +23,7 @@
         - [Google Cloud Certified Professional Cloud Architect](#google-cloud-certified-professional-cloud-architect-pca-credly)
         - [Google Cloud Certified Professional Cloud Developer](#google-cloud-certified-professional-cloud-developer-pcd-credly)
         - [Google Cloud Certified Professional Machine Learning Engineer](#google-cloud-certified-professional-machine-learning-engineer-mle-credly)
+        - [Google Cloud Certified Professional Data Engineer](#google-cloud-certified-professional-data-pde-credly)
         - [Google Cloud Certified Cloud Digital Leader](#google-cloud-certified-cloud-digital-leader-cdl-credly)
         - [Google Cloud Certified Generative AI Leader](#google-cloud-certified-generative-ai-leader-gail-credly)
         - [Google Cloud Certified Professional Cloud DevOps Engineer](#google-cloud-certified-professional-cloud-devops-engineer-credly)
@@ -135,6 +136,10 @@
 #### Google Cloud Certified Professional Machine Learning Engineer (MLE) [credly](https://www.credly.com/badges/6b09a2d3-24be-482c-ab99-e0ee1da75bab)
 
 ![GCP MLE](cloud/gcp/Google%20Cloud%20Machine%20Learning.jpg)
+
+#### Google Cloud Certified Professional Data Engineer (PDE) [credly](https://www.credly.com/badges/fcbf109d-ec98-4042-8f05-36f7a54607bf)
+
+![GCP PDE](cloud/gcp/Google%20Cloud%20Data%20Engineer.jpg)
 
 #### Google Cloud Certified Cloud Digital Leader (CDL) [credly](https://www.credly.com/badges/ffe42c37-3da5-4bfe-8686-54028689ed61)
 
