@@ -3,7 +3,7 @@
 **Location:** 1220 Vienna, Austria  
 **E-mail:** daniel.mroczka@gmail.com  
 **Phone:** to be provided upon request  
-**Website:** www.linkedin.com/in/danielmroczka
+**Website:** [www.linkedin.com/in/danielmroczka](www.linkedin.com/in/danielmroczka)
 
 ## Summary
 
