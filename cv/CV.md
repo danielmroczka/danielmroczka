@@ -110,7 +110,7 @@ and projects.
 * **Methodologies:** Agile (Scrum, Kanban), Waterfall
 * **Other:** Kubernetes, Docker, Agile, Object-Oriented Programming, Design Patterns (GoF), Clean Code Principles, UML, RegExp, OSGi/Eclipse RCP (basic), Android and Google Play Developer
 
-### [Certifications](../certifications/CERTIFICATIONS.md):
+### [Certifications](../certifications/CERTIFICATIONS.html):
 
 **Java:**
 
