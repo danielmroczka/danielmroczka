@@ -5,8 +5,8 @@
 - [GCP](#gcp)
 - [MongoDB](#mongodb)
 - [Cloud Guru](#cloud-guru)
-- [Alibaba Cloud](#alibaba)
-- [Others](#other)
+- [Alibaba Cloud](#alibaba-cloud)
+- [Other](#other)
 
 ## Coursera
 
@@ -44,11 +44,11 @@
 
 ![Udemy](udemy/UC-a477974f-9f8a-499d-a948-b7af0f0df678.jpg)
 
-### AI-900L Azure AI Fundamentals Exam Preparation [link](http://ude.my/UC-ead1c226-aa93-41c9-9eb8-6edeca9776e3)
+### AI-900: Azure AI Fundamentals Exam Preparation [link](http://ude.my/UC-ead1c226-aa93-41c9-9eb8-6edeca9776e3)
 
 ![Udemy](udemy/UC-ead1c226-aa93-41c9-9eb8-6edeca9776e3.jpg)
 
-### DP-900 Azure Data Fundamentals Exam Preparation [link](http://ude.my/UC-b0521999-97ef-4ae0-945d-75d61baef7aa)
+### DP-900: Azure Data Fundamentals Exam Preparation [link](http://ude.my/UC-b0521999-97ef-4ae0-945d-75d61baef7aa)
 
 ![Udemy](udemy/UC-b0521999-97ef-4ae0-945d-75d61baef7aa.jpg)
 
@@ -74,7 +74,7 @@
 
 ![GCP](gcp/Daniel_Mroczka%20-%20Google%20Cloud%20Fundamentals%20-%20Core%20infrastructure.jpg)
 
-### Google Started with Google Kubernetes Engine 2024
+### Getting Started with Google Kubernetes Engine 2024
 
 ![GCP](gcp/Daniel_Mroczka%20-%20Getting%20started%20with%20GKE.jpg)
 
@@ -118,7 +118,7 @@
 
 ![GCP](gcp/Daniel%20Mroczka%20-%20Introduction%20to%20AI%20and%20ML%20on%20Google%20Cloud.jpg)
 
-### GenAI Leader - Internation Women's Day Edition 2026
+### GenAI Leader - International Women's Day Edition 2026
 
 ![GCP](gcp/Daniel%20Mroczka%20-%20Google%20GenAI%20Leader.jpg)
 
@@ -130,7 +130,7 @@
 ### M101J: MongoDB for Java Developers
 ![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0002.jpg)
 
-### M101JSL MongoDB for Node.js Developers
+### M101JS: MongoDB for Node.js Developers
 ![MongoDB](mongodb/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0003.jpg)
 
 ## Cloud Guru
@@ -151,7 +151,7 @@ https://verify.acloud.guru/F9EFEAE7E90F
 ![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0027.jpg)
 https://verify.acloud.guru/7F534EC08964
 
-## Alibaba
+## Alibaba Cloud
 
 ### Operate and Manage a Cloud Server
 

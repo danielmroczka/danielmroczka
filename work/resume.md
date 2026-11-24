@@ -1,7 +1,7 @@
 # Daniel Mroczka
 
 ## Why me?
-- I'm a passionated and experienced software developer
+- I am a passionate and experienced software developer
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## Experience
 
-### **Erste Digital Gmbh**  
+### **Erste Digital GmbH**  
 **Senior Java Developer** | 04.2023 – now  
 - development tbd
 
@@ -51,12 +51,12 @@ I hereby authorize the use of my personal data in accordance with the GDPR 679/1
 Master's degree  
 - Thesis: Application of Neural Network Data Exploration Methods for Stock Market Data Forecasting and Analysis.
 
-### **Electronics and Telecomunication**  
-**AGH University of Science and Technology** | 1998-2003   
+### **Electronics and Telecommunications**  
+**AGH University of Science and Technology** | 1998 – 2003   
 Bachelor's degree  
-- Thesis: Acoustic signal processing in distributed network TCP/IP
+- Thesis: Acoustic signal processing in distributed TCP/IP networks
 
-### **Economy**  
+### **Economics**  
 **Cracow University of Economics** | 2007 – 2008    
-Postgraduate in Economy 
+Postgraduate in Economics 
 - Specialization: Company management

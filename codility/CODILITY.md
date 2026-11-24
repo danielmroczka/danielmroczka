@@ -97,10 +97,10 @@
 
 ![Codility Golden Award for the Year of the Rabbit Challenge](Codility-images-18.jpg)
 
-20. 2023.03 Codility Golden Award for the Pi Code Challenge Challenge
+20. 2023.03 Codility Golden Award for the Pi Code Challenge
     https://app.codility.com/cert/view/cert354YKP8CRWJ6ZDBJ-H4S/
 
-![Codility Golden Award for the Pi Code Challenge Challenge](Codility-images-26.jpg)    
+![Codility Golden Award for the Pi Code Challenge](Codility-images-26.jpg)
 
 ## Silver:
 

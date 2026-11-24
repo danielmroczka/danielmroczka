@@ -48,7 +48,7 @@
 ** xref:neo4j[Neo4j]
 *** xref:neo4j-certified-professional[Neo4j Certified Professional]
 *** xref:neo4j-40-certified[Neo4j 4.0 Certified]
-** xref:github[Github]
+** xref:github[GitHub]
 *** xref:github-foundations[GitHub Foundations]
 ** xref:scaled-agile-framework-safe[Scaled Agile Framework (SAFe)]
 ** xref:chromeos-administrator[ChromeOS Administrator]
@@ -236,11 +236,11 @@ image::other/Neo4j%20Certified%20Professional.jpg[Neo4j,width=800]
 image::other/Neo4j%204.0%20Certified.jpg[Neo4j,width=800]
 
 [[github]]
-=== Github
+=== GitHub
 
 ==== GitHub Foundations link:https://www.credly.com/badges/7f1c093b-5c00-458e-82fb-c3b095532848[credly]
 
-image::other/GitHubFoundations_Badge20240801.jpg[Github,width=800]
+image::other/GitHubFoundations_Badge20240801.jpg[GitHub,width=800]
 
 [[scaled-agile-framework-safe]]
 === Scaled Agile Framework (SAFe)
