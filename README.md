@@ -95,10 +95,10 @@ Quick links to certifications, references, and professional background:
       <a href="codility/CODILITY.html">👉 View Codility Certificates</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://www.linkedin.com/in/danielmroczka">📬 Contact & Social</a></h3>
+      <h3><a href="https://www.linkedin.com/in/danielmroczka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle" /></a> Contact & Social</h3>
       <p>Let's connect:</p>
       <ul>
-        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/danielmroczka">linkedin.com/in/danielmroczka</a></li>
+        <li><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle" /> <a href="https://www.linkedin.com/in/danielmroczka">linkedin.com/in/danielmroczka</a></li>
         <li><strong>Email:</strong> <a href="mailto:daniel.mroczka@gmail.com">daniel.mroczka@gmail.com</a></li>
         <li><strong>Location:</strong> Vienna, Austria</li>
       </ul>
