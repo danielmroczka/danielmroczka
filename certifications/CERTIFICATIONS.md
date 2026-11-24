@@ -50,10 +50,10 @@
     - [Neo4j](#neo4j)
         - [Neo4j Certified Professional](#neo4j-certified-professional)
         - [Neo4j 4.0 Certified](#neo4j-40-certified)
-    - [Github](#github)
+    - [GitHub](#github)
         - [GitHub Foundations](#github-foundations-credly)
     - [Scaled Agile Framework (SAFe)](#scaled-agile-framework-safe)
-    - [ChromeOS Administrator](#ChromeOS-Administrator)
+    - [ChromeOS Administrator](#chromeos-administrator)
 
 ---
 
@@ -219,7 +219,7 @@
 
 #### Vaadin 14 Professional [credly](https://vaadin.com/learn/certificate/6d2d0215-e181-4561-98a8-a181414ca3b7)  
 
-![Vaadin 14 Professsional](vaadin/Vaadin%2014%20Professional.jpg)
+![Vaadin 14 Professional](vaadin/Vaadin%2014%20Professional.jpg)
 
 #### Vaadin 24 Developer [credly](https://vaadin.com/learn/certificate/86f866d4-d85f-4104-a7a0-62fb8896c161)  
 
@@ -235,11 +235,11 @@
 
 ![Neo4j](other/Neo4j%204.0%20Certified.jpg)
 
-### Github
+### GitHub
 
 #### GitHub Foundations [credly](https://www.credly.com/badges/7f1c093b-5c00-458e-82fb-c3b095532848)
 
-![Github](other/GitHubFoundations_Badge20240801.jpg)
+![GitHub](other/GitHubFoundations_Badge20240801.jpg)
 
 ### Scaled Agile Framework (SAFe)
 

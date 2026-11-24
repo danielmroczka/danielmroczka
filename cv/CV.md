@@ -7,9 +7,9 @@
 
 ## Summary
 
-Self-motivated, self-reliant and quick learner. Passion Driven Developer with background in Java SE, Java EE and
+Self-motivated, self-reliant, and a quick learner. Passion-Driven Developer with a background in Java SE, Java EE, and
 Databases.
-Always interested in learning new technologies and walking on unbeaten paths while creating working, usable
+Always interested in learning new technologies and walking on unbeaten paths while creating working, usable,
 and high-quality software.
 
 Over 25 years of experience in the aviation/travel, petrol, automation, consulting, finance and banking industries,
@@ -19,7 +19,7 @@ and projects.
 ### Work Experience:
 
 * **[Erste Digital GmbH](https://www.erstedigital.com/) (Vienna)** - Senior Java Developer (IV.2023-current)
-  * Providing data for George app.
+  * Providing data for George app
   * Transaction team member
 
 * **[Dynatrace Austria GmbH](https://www.dynatrace.com/) (Vienna)** - Senior Java Developer (III.2021-III.2023)
@@ -30,7 +30,7 @@ and projects.
     * Introducing self-monitoring and dashboards, improvements, inter-team collaboration
 
 * **[iov42](https://iov42.com/) British-Austrian Startup (Vienna, Austria)** - Senior Java Developer (VIII.2019-II.2021)
-    * Implementation of a few application prototypes and internal microservices based on the core Blockchain platform
+    * Implementation of application prototypes and internal microservices based on the core Blockchain platform
       invented by iov42. Ready to demonstrate them to potential investors.
     * Carbon Credit Ecosystem (CCE) allows carbon credits to be issued securely
     * Know Your Customer (KYC) use case for the Banking and Telecommunication industries
@@ -41,7 +41,7 @@ and projects.
 
 * **[EBCONT enterprise technologies GmbH](https://www.ebcont.com) (Vienna, Austria)** - Senior Java EE Consultant (XI.2016-I.2018)
     * Implementation of new features in IPS application KSV1870
-    * Implementation from the scratch Red Bull Studio booking application for Red Bull
+    * Implementation from scratch of Red Bull Studio booking application for Red Bull
     * Implementation of new features in application e-zoll (e-custom) for Bundesrechenzentrum (BRZ)
 
 * **LEROX Datenverarbeitung GmbH part of Roxcel Group (Vienna, Austria)** - Senior Java Developer (I.2015-X.2016)
@@ -51,9 +51,9 @@ and projects.
     * Implementation Event Booking Mobile Web Application (Proof of Concept)
     * Development of new features for Platform team (core functionalities) and S7 Airline
 
-* **Anachron (Dutch e-Documents' service provide)** - Senior Java Developer (IX.2013-I.2014)
+* **Anachron (Dutch e-Documents' service provider)** - Senior Java Developer (IX.2013-I.2014)
     * Development of e-invoicing SaaS applications
-    * Building new office and team as one of the first employee in polish office
+    * Building new office and team as one of the first employees in Polish office
 
 * **[Sabre Holdings](https://www.sabre.com/) (American travel technology company)** - Senior Java Developer / Analyst (
   IX.2008-VII.2013)
@@ -77,24 +77,24 @@ and projects.
 
 * **[BMS Creative](https://bms.krakow.pl/english)** - Software Developer (I.2001-IX.2002)
     * Berberis - Customer Relationship Management
-    * IRIS - Reservation ticket system through internet for International Travel Company Jordan.
+    * IRIS - Reservation ticket system through internet for International Travel Company Jordan
 
 ### Education:
 
-* **Postgraduate in Economy, with a specialization in Financial Markets Analysis and Investment Advice** at Cracow
+* **Postgraduate in Economics, with a specialization in Financial Markets Analysis and Investment Advice** at Cracow
   University of Economics (2007-2008)
 * **M.Sc. in Computer Science, with a specialization in Computer Systems** at AGH University of Science and Technology
-  in Cracow. (2003-2006)
+  in Cracow (2003-2006)
     * M.Sc. thesis: *Application of Neural Network Data Exploration Methods for Stock Market Data Forecasting and
       Analysis.*
 * **B.Sc. in Electronics and Telecommunications, with a specialization in Electronic Equipment Designing** at AGH
-  University of Science and Technology in Cracow. (1998-2003)
-    * B.Sc. thesis: *Acoustic signal processing in distributed network TCP/IP*
+  University of Science and Technology in Cracow (1998-2003)
+    * B.Sc. thesis: *Acoustic signal processing in distributed TCP/IP networks*
 
 ### Technical Skills:
 
 * **Languages:** Java, Groovy, Kotlin (beginner), SQL, PL/SQL, ActionScript, Pascal, C/C++ (passive)
-* **IDE:** IntelliJ Idea, Android Studio, NetBeans, Eclipse, JDeveloper, VS Code
+* **IDE:** IntelliJ IDEA, Android Studio, NetBeans, Eclipse, JDeveloper, VS Code
 * **Databases:** Oracle, MS SQL, MySQL, PostgreSQL, Embedded (H2), MongoDB, Apache Cassandra
 * **Java EE:** Java Servlet, JSP, CDI, EJB 3.0, JSF (basic), JMS (basic)
 * **Persistence:** JDBC, JPA, Hibernate
@@ -108,7 +108,7 @@ and projects.
 * **Tools:** Jira, Version One, Crucible, Continuous Integration and Delivery (TeamCity, Jenkins), SoapUI, Static Code Analysis (PMD, CPD, Findbugs, Checkstyle), Cobertura, SonarQube
 * **Cloud:** AWS, Azure, GCP
 * **Methodologies:** Agile (Scrum, Kanban), Waterfall
-* **Other:** Kubernetes, Docker, Agile, Object Oriented Programming, Design Patterns (GoF), Clean Code Principles, UML, RegExp, OSGi/Eclipse RCP(basic), Android and Google Play Developer
+* **Other:** Kubernetes, Docker, Agile, Object-Oriented Programming, Design Patterns (GoF), Clean Code Principles, UML, RegExp, OSGi/Eclipse RCP (basic), Android and Google Play Developer
 
 ### [Certifications](../certifications/CERTIFICATIONS.md):
 
@@ -157,7 +157,7 @@ and projects.
 ### Side projects:
 
 * *[Auto WiFi Tethering](https://play.google.com/store/apps/details?id=com.labs.dm.auto_tethering)* - Android
-  application helping to share internet connection (2016-2019).
+  application helping to share an internet connection (2016-2019).
 
 ### Language skills:
 
@@ -169,7 +169,7 @@ and projects.
 
 * Q2 2012 Sabre Individual Technology Award Winner
 * Nominee in Sabre Krakow Wings Recognition Program for Q3 2011 Category: Leadership
-* Q3 and Q4 2010 Sabre Champion - recognition of outstanding performance and lasting contribution
+* Q3 and Q4 2010 Sabre Champion - recognized for outstanding performance and lasting contribution
 
 ---
 

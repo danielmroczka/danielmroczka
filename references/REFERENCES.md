@@ -1,4 +1,4 @@
-# Work references letters
+# Work reference letters
 
 1. [BMS](#bms)
 2. [Lerox](#lerox)
