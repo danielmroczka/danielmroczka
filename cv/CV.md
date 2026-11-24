@@ -124,6 +124,9 @@ and projects.
 
 **Cloud:**
 
+* GCP PDE: Google Cloud Certified – Professional Data Engineer 2026
+* GCP PCDE: Google Cloud Certified – Professional Cloud DevOps Engineer 2026
+* GCP PCSE: Google Cloud Certified – Professional Cloud Security Engineer 2026
 * GCP GAIL: Google Cloud Certified - Generative AI Leader (2025)
 * GCP DLC: Google Cloud Certified - Digital Leader (2025)
 * GCP PMLE: Google Cloud Certified - Professional Machine Learning Engineer (2024)
