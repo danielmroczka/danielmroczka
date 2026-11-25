@@ -1,251 +1,277 @@
-# List of certifications
+# Certifications
 
 - [Java](#java)
-    - [Sun Certified Programmer for the Java 2 Standard Edition 5.0](#sun-certified-programmer-for-the-java-2-standard-edition-50)
-    - [Sun Certified Web Component Developer for Java 2 Enterprise Edition 1.4](#sun-certified-web-component-developer-for-java-2-enterprise-edition-14)
-    - [Sun Certified Specialist for NetBeans IDE](#sun-certified-specialist-for-netbeans-ide)
-    - [Oracle Certified Professional, Java EE 5 Business Component Developer](#oracle-certified-professional-java-ee-5-business-component-developer-credly)
-    - [Oracle Certified Expert EE 6 Web Services Developer](#oracle-certified-expert-ee-6-web-services-developer-credly)
-    - [Oracle Certified Expert, Java EE 6 Java Persistence API Developer](#oracle-certified-expert-java-ee-6-java-persistence-api-developer-credly)
 - [Cloud](#cloud)
-    - [AWS](#aws)
-        - [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner-credly)
-    - [Alibaba](#alibaba)
-        - [Alibaba Cloud Associate](#alibaba-cloud-associate-credly)
-    - [Azure](#azure)
-        - [Microsoft Certified: Azure Fundamentals AZ900](#microsoft-certified-azure-fundamentals-az900-credly)
-        - [Microsoft Certified: Azure Data Fundamentals DP900](#microsoft-certified-azure-data-fundamentals-dp900-credly)
-        - [Microsoft Certified: Azure AI Fundamentals AI900](#microsoft-certified-azure-ai-fundamentals-ai900-credly)
-        - [Microsoft Certified: Azure Security Engineer Associate SC900](#microsoft-certified-azure-security-engineer-associate-sc900-credly)
-    - [GCP](#gcp)
-        - [Google Cloud Associate Cloud Engineer](#google-cloud-associate-cloud-engineer-ace-credly)
-        - [Google Cloud Certified Professional Cloud Network Engineer](#google-cloud-certified-professional-cloud-network-engineer-pcne-credly)
-        - [Google Cloud Certified Professional Cloud Architect](#google-cloud-certified-professional-cloud-architect-pca-credly)
-        - [Google Cloud Certified Professional Cloud Developer](#google-cloud-certified-professional-cloud-developer-pcd-credly)
-        - [Google Cloud Certified Professional Machine Learning Engineer](#google-cloud-certified-professional-machine-learning-engineer-mle-credly)
-        - [Google Cloud Certified Professional Data Engineer](#google-cloud-certified-professional-data-pde-credly)
-        - [Google Cloud Certified Cloud Digital Leader](#google-cloud-certified-cloud-digital-leader-cdl-credly)
-        - [Google Cloud Certified Generative AI Leader](#google-cloud-certified-generative-ai-leader-gail-credly)
-        - [Google Cloud Certified Professional Cloud DevOps Engineer](#google-cloud-certified-professional-cloud-devops-engineer-credly)
-        - [Google Cloud Certified Professional Cloud Security Engineer](#google-cloud-certified-professional-cloud-security-engineer-credly)
-    - [OCI](#oci)
-        - [Oracle Cloud Infrastructure 2021 Foundations Associate](#oracle-cloud-infrastructure-2021-foundations-associate)
-        - [Oracle Cloud Infrastructure 2024 Foundations Associate](#oracle-cloud-infrastructure-2024-foundations-associate)
-        - [Oracle Cloud Infrastructure 2024 AI Foundations Associate](#oracle-cloud-infrastructure-2024-ai-foundations-associate)
-        - [Oracle Cloud Infrastructure Developer Associate](#oracle-cloud-infrastructure-developer-associate)
-        - [Oracle Cloud Infrastructure Architect Associate](#oracle-cloud-infrastructure-architect-associate)
-        - [Oracle Cloud Infrastructure Architect Professional](#oracle-cloud-infrastructure-architect-professional)
-- [DevOps](#devops)
-    - [Certified Kubernetes Application Developer (CKAD)](#certified-kubernetes-application-developer-ckad-credly)
+  - [AWS](#aws)
+  - [Alibaba Cloud](#alibaba-cloud)
+  - [Microsoft Azure](#microsoft-azure)
+  - [Google Cloud (GCP)](#google-cloud-gcp)
+  - [Oracle Cloud Infrastructure (OCI)](#oracle-cloud-infrastructure-oci)
+- [DevOps & Kubernetes](#devops--kubernetes)
+- [Databases & Frameworks](#databases--frameworks)
+  - [Apache Cassandra](#apache-cassandra)
+  - [Neo4j](#neo4j)
+  - [Vaadin](#vaadin)
 - [Other](#other)
-    - [Apache Cassandra](#apache-cassandra)
-        - [Apache Cassandra 3 Administrator Associate](#apache-cassandra-3-administrator-associate)
-        - [Apache Cassandra 3 Developer Associate](#apache-cassandra-3-developer-associate)
-    - [Vaadin](#vaadin)
-        - [Vaadin 10 Developer](#vaadin-10-developer)
-        - [Vaadin 10 Professional](#vaadin-10-professional)
-        - [Vaadin 14 Developer](#vaadin-14-developer)
-        - [Vaadin 14 Professional](#vaadin-14-professional)
-        - [Vaadin 24 Developer](#vaadin-24-developer)
-    - [Neo4j](#neo4j)
-        - [Neo4j Certified Professional](#neo4j-certified-professional)
-        - [Neo4j 4.0 Certified](#neo4j-40-certified)
-    - [GitHub](#github)
-        - [GitHub Foundations](#github-foundations-credly)
-    - [Scaled Agile Framework (SAFe)](#scaled-agile-framework-safe)
-    - [ChromeOS Administrator](#chromeos-administrator)
+  - [GitHub](#github)
+  - [Scaled Agile Framework (SAFe)](#scaled-agile-framework-safe)
+  - [ChromeOS](#chromeos)
 
 ---
 
 ## Java
 
-#### Sun Certified Programmer for the Java 2 Standard Edition 5.0
+### Sun Certified Programmer for the Java 2 Standard Edition 5.0 (SCJP)
 
-![Java 5 SCJP](java/SCJP.jpg)
+![Sun Certified Programmer for the Java 2 Standard Edition 5.0](java/SCJP.jpg)
 
-#### Sun Certified Web Component Developer for Java 2 Enterprise Edition 1.4
+### Sun Certified Web Component Developer for Java 2 Enterprise Edition 1.4 (SCWCD)
 
-![Java SCWCD](java/SCWCD.jpg)
+![Sun Certified Web Component Developer for Java 2 Enterprise Edition 1.4](java/SCWCD.jpg)
 
-#### Sun Certified Specialist for NetBeans IDE
+### Sun Certified Specialist for NetBeans IDE
 
-![Java Netbeans](java/SCS.jpg)
+![Sun Certified Specialist for NetBeans IDE](java/SCS.jpg)
 
-#### Oracle Certified Professional, Java EE 5 Business Component Developer [credly](https://www.credly.com/earner/earned/badge/0b94ae5c-5e82-412a-84e5-7c1171b7153f)
+### Oracle Certified Professional, Java EE 5 Business Component Developer
 
-![Java BCD](java/OCP%20BCD.jpg)
+[Verify on Credly](https://www.credly.com/earner/earned/badge/0b94ae5c-5e82-412a-84e5-7c1171b7153f)
 
-#### Oracle Certified Expert EE 6 Web Services Developer [credly](https://www.credly.com/badges/51e532ef-7f09-46ca-b6a3-4d4176bdbe19)
+![Oracle Certified Professional, Java EE 5 Business Component Developer](java/OCP%20BCD.jpg)
 
-![Java WSD](java/OCE%20WSD.jpg)
+### Oracle Certified Expert, Java EE 6 Web Services Developer
 
-#### Oracle Certified Expert, Java EE 6 Java Persistence API Developer [credly](https://www.credly.com/badges/aa0d6291-56ad-417f-91f9-6d4cf844a7c2)
+[Verify on Credly](https://www.credly.com/badges/51e532ef-7f09-46ca-b6a3-4d4176bdbe19)
 
-![Java JPA](java/OCE%20JPA.jpg)
+![Oracle Certified Expert, Java EE 6 Web Services Developer](java/OCE%20WSD.jpg)
+
+### Oracle Certified Expert, Java EE 6 Java Persistence API Developer
+
+[Verify on Credly](https://www.credly.com/badges/aa0d6291-56ad-417f-91f9-6d4cf844a7c2)
+
+![Oracle Certified Expert, Java EE 6 Java Persistence API Developer](java/OCE%20JPA.jpg)
+
+---
 
 ## Cloud
 
 ### AWS
 
-#### AWS Certified Cloud Practitioner [credly](https://www.credly.com/badges/dc6f2ef8-b3ed-4795-971e-d35ab2d34794)
+#### AWS Certified Cloud Practitioner
 
-![AWS Practitioner](cloud/aws/AWS%20Certified%20Cloud%20Practitioner%20certificate.jpg)
+[Verify on Credly](https://www.credly.com/badges/dc6f2ef8-b3ed-4795-971e-d35ab2d34794)
 
-### Alibaba
+![AWS Certified Cloud Practitioner](cloud/aws/AWS%20Certified%20Cloud%20Practitioner%20certificate.jpg)
 
-#### Alibaba Cloud Associate [credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
+### Alibaba Cloud
+
+#### Alibaba Cloud Associate (ACA)
+
+[Verify on Credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
 
 ![Alibaba Cloud Associate](cloud/alibaba/AlibabaCloud%20ACA%20certificate.jpg)
 
-### Azure
+### Microsoft Azure
 
-#### Microsoft Certified: Azure Fundamentals AZ900 [credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
+#### Microsoft Certified: Azure Fundamentals (AZ-900)
 
-![Azure Fundamentals AZ900](cloud/azure/Microsoft_Certified_Professional_Certificate_AZ900.jpg)
+[Verify on Credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
 
-#### Microsoft Certified: Azure Data Fundamentals DP900 [credly](https://www.credly.com/badges/2539522c-c2ef-4993-8a51-35e46dca58aa)
+![Microsoft Certified: Azure Fundamentals AZ-900](cloud/azure/Microsoft_Certified_Professional_Certificate_AZ900.jpg)
 
-![Azure Fundamentals DP900](cloud/azure/Microsoft_Certified_Professional_Certificate_DP900.jpg)
+#### Microsoft Certified: Azure Data Fundamentals (DP-900)
 
-#### Microsoft Certified: Azure AI Fundamentals AI900 [credly](https://www.credly.com/badges/4838eee3-682c-42c3-ad59-b9e24ddc1128)
+[Verify on Credly](https://www.credly.com/badges/2539522c-c2ef-4993-8a51-35e46dca58aa)
 
-![Azure Fundamentals AI900](cloud/azure/Microsoft_Certified_Professional_Certificate_AI900.jpg)
+![Microsoft Certified: Azure Data Fundamentals DP-900](cloud/azure/Microsoft_Certified_Professional_Certificate_DP900.jpg)
 
-#### Microsoft Certified: Azure Security Engineer Associate SC900 [credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
+#### Microsoft Certified: Azure AI Fundamentals (AI-900)
 
-![Azure Fundamentals SC900](cloud/azure/Microsoft_Certified_Professional_Certificate_SC900.jpg)
+[Verify on Credly](https://www.credly.com/badges/4838eee3-682c-42c3-ad59-b9e24ddc1128)
 
-### GCP
+![Microsoft Certified: Azure AI Fundamentals AI-900](cloud/azure/Microsoft_Certified_Professional_Certificate_AI900.jpg)
 
-#### Google Cloud Associate Cloud Engineer (ACE) [credly](https://www.credly.com/badges/3928fced-2baa-4df4-89ae-9a2576148c99)
+#### Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
-![GCP ACE](cloud/gcp/Google%20Cloud%20ACE.jpg)
+[Verify on Credly](https://www.credly.com/badges/1f927914-89c0-444d-9c6f-875bb234e625)
 
-#### Google Cloud Certified Professional Cloud Network Engineer (PCNE) [credly](https://www.credly.com/earner/earned/badge/caee1b20-d174-4910-9c9f-3302b4b68a6b)
+![Microsoft Certified: Security, Compliance, and Identity Fundamentals SC-900](cloud/azure/Microsoft_Certified_Professional_Certificate_SC900.jpg)
 
-![GCP PCNE](cloud/gcp/Google%20Cloud%20Network%20Engineer.jpg)
+### Google Cloud (GCP)
 
-#### Google Cloud Certified Professional Cloud Architect (PCA) [credly](https://www.credly.com/badges/eee9b667-de36-471b-a92e-082b6d641013)
+#### Google Cloud Associate Cloud Engineer (ACE)
 
-![GCP PCA](cloud/gcp/Google%20Cloud%20PCA.jpg)
+[Verify on Credly](https://www.credly.com/badges/3928fced-2baa-4df4-89ae-9a2576148c99)
 
-#### Google Cloud Certified Professional Cloud Developer (PCD) [credly](https://www.credly.com/badges/62e0e809-994b-4c37-ace6-b2a948bc71f6)
+![Google Cloud Associate Cloud Engineer](cloud/gcp/Google%20Cloud%20ACE.jpg)
 
-![GCP PCD](cloud/gcp/Google%20Cloud%20PCD.jpg)
+#### Google Cloud Certified Professional Cloud Network Engineer (PCNE)
 
-#### Google Cloud Certified Professional Machine Learning Engineer (MLE) [credly](https://www.credly.com/badges/6b09a2d3-24be-482c-ab99-e0ee1da75bab)
+[Verify on Credly](https://www.credly.com/earner/earned/badge/caee1b20-d174-4910-9c9f-3302b4b68a6b)
 
-![GCP MLE](cloud/gcp/Google%20Cloud%20Machine%20Learning.jpg)
+![Google Cloud Certified Professional Cloud Network Engineer](cloud/gcp/Google%20Cloud%20Network%20Engineer.jpg)
 
-#### Google Cloud Certified Professional Data Engineer (PDE) [credly](https://www.credly.com/badges/fcbf109d-ec98-4042-8f05-36f7a54607bf)
+#### Google Cloud Certified Professional Cloud Architect (PCA)
 
-![GCP PDE](cloud/gcp/Google%20Cloud%20PDE.jpg)
+[Verify on Credly](https://www.credly.com/badges/eee9b667-de36-471b-a92e-082b6d641013)
 
-#### Google Cloud Certified Cloud Digital Leader (CDL) [credly](https://www.credly.com/badges/ffe42c37-3da5-4bfe-8686-54028689ed61)
+![Google Cloud Certified Professional Cloud Architect](cloud/gcp/Google%20Cloud%20PCA.jpg)
 
-![GCP CDL](cloud/gcp/Google%20Cloud%20CDL.jpg)   
+#### Google Cloud Certified Professional Cloud Developer (PCD)
 
-#### Google Cloud Certified Generative AI Leader (GAIL) [credly](https://www.credly.com/badges/66c2e5b0-bee6-42e6-b5d7-40b3d25ef0d9)
+[Verify on Credly](https://www.credly.com/badges/62e0e809-994b-4c37-ace6-b2a948bc71f6)
 
-![GCP GAIL](cloud/gcp/Google%20Cloud%20GAIL.jpg)
+![Google Cloud Certified Professional Cloud Developer](cloud/gcp/Google%20Cloud%20PCD.jpg)
 
-#### Google Cloud Certified Professional Cloud DevOps Engineer [credly](https://www.credly.com/badges/1928e075-0134-4489-aa80-26571ecfb548)
+#### Google Cloud Certified Professional Machine Learning Engineer (MLE)
 
-![GCP Devops](cloud/gcp/Google%20Cloud%20Devops.jpg)
+[Verify on Credly](https://www.credly.com/badges/6b09a2d3-24be-482c-ab99-e0ee1da75bab)
 
-#### Google Cloud Certified Professional Cloud Security Engineer [credly](https://www.credly.com/badges/5d891673-6ab2-4b6a-859d-729dce78751b)
+![Google Cloud Certified Professional Machine Learning Engineer](cloud/gcp/Google%20Cloud%20Machine%20Learning.jpg)
 
-![GCP Security](cloud/gcp/Google%20Cloud%20Security%20Engineer.jpg)
+#### Google Cloud Certified Professional Data Engineer (PDE)
 
-### OCI
+[Verify on Credly](https://www.credly.com/badges/fcbf109d-ec98-4042-8f05-36f7a54607bf)
+
+![Google Cloud Certified Professional Data Engineer](cloud/gcp/Google%20Cloud%20PDE.jpg)
+
+#### Google Cloud Certified Cloud Digital Leader (CDL)
+
+[Verify on Credly](https://www.credly.com/badges/ffe42c37-3da5-4bfe-8686-54028689ed61)
+
+![Google Cloud Certified Cloud Digital Leader](cloud/gcp/Google%20Cloud%20CDL.jpg)
+
+#### Google Cloud Certified Generative AI Leader (GAIL)
+
+[Verify on Credly](https://www.credly.com/badges/66c2e5b0-bee6-42e6-b5d7-40b3d25ef0d9)
+
+![Google Cloud Certified Generative AI Leader](cloud/gcp/Google%20Cloud%20GAIL.jpg)
+
+#### Google Cloud Certified Professional Cloud DevOps Engineer
+
+[Verify on Credly](https://www.credly.com/badges/1928e075-0134-4489-aa80-26571ecfb548)
+
+![Google Cloud Certified Professional Cloud DevOps Engineer](cloud/gcp/Google%20Cloud%20Devops.jpg)
+
+#### Google Cloud Certified Professional Cloud Security Engineer
+
+[Verify on Credly](https://www.credly.com/badges/5d891673-6ab2-4b6a-859d-729dce78751b)
+
+![Google Cloud Certified Professional Cloud Security Engineer](cloud/gcp/Google%20Cloud%20Security%20Engineer.jpg)
+
+### Oracle Cloud Infrastructure (OCI)
 
 #### Oracle Cloud Infrastructure 2021 Foundations Associate
 
-![OCI Foundations](cloud/oci/OCI%20Foundations%20Associate%20Certificate.jpg)
+![Oracle Cloud Infrastructure 2021 Foundations Associate](cloud/oci/OCI%20Foundations%20Associate%20Certificate.jpg)
 
 #### Oracle Cloud Infrastructure 2024 Foundations Associate
 
-![OCI Foundations](cloud/oci/OCI%202024%20Foundations%20Associate.jpg)
+![Oracle Cloud Infrastructure 2024 Foundations Associate](cloud/oci/OCI%202024%20Foundations%20Associate.jpg)
 
 #### Oracle Cloud Infrastructure 2024 AI Foundations Associate
 
-![OCI Foundations](cloud/oci/OCI%202024%20AI%20Foundations%20Associate.jpg)
+![Oracle Cloud Infrastructure 2024 AI Foundations Associate](cloud/oci/OCI%202024%20AI%20Foundations%20Associate.jpg)
 
 #### Oracle Cloud Infrastructure Developer Associate
 
-![OCI Foundations](cloud/oci/OCI%20Developer%20Associate%20Certificate.jpg)
+![Oracle Cloud Infrastructure Developer Associate](cloud/oci/OCI%20Developer%20Associate%20Certificate.jpg)
 
 #### Oracle Cloud Infrastructure Architect Associate
 
-![OCI Foundations](cloud/oci/OCI%20Associate%20Architect.jpg)
+![Oracle Cloud Infrastructure Architect Associate](cloud/oci/OCI%20Associate%20Architect.jpg)
 
 #### Oracle Cloud Infrastructure Architect Professional
 
-![OCI Foundations](cloud/oci/OCI%20Professional%20Architect%20Certificate.jpg)
+![Oracle Cloud Infrastructure Architect Professional](cloud/oci/OCI%20Professional%20Architect%20Certificate.jpg)
 
-## DevOps
+---
 
-### Kubernetes
+## DevOps & Kubernetes
 
-#### Certified Kubernetes Application Developer (CKAD) [credly](https://www.credly.com/badges/ec590442-6498-4f47-838a-6a151fef7d3e)
+### Certified Kubernetes Application Developer (CKAD)
 
-![CKAD](devops/daniel-mroczka-74a247a5-e4ae-4eb1-80ef-5278cd6b09e7.jpg)
+[Verify on Credly](https://www.credly.com/badges/ec590442-6498-4f47-838a-6a151fef7d3e)
 
-## Other
+![Certified Kubernetes Application Developer (CKAD)](devops/daniel-mroczka-74a247a5-e4ae-4eb1-80ef-5278cd6b09e7.jpg)
+
+---
+
+## Databases & Frameworks
 
 ### Apache Cassandra
 
 #### Apache Cassandra 3 Administrator Associate
 
-![Apache Cassandra](other/Administrator-applicant-certificate-645947.jpg)
+![Apache Cassandra 3 Administrator Associate](other/Administrator-applicant-certificate-645947.jpg)
 
 #### Apache Cassandra 3 Developer Associate
 
-![Apache Cassandra](other/Developer-applicant-certificate-645098.jpg)
-
-### Vaadin
-
-#### Vaadin 10 Developer [credly](https://vaadin.com/learn/certificate/9cbe6d05-6991-4567-913c-eaede8f96761)  
-
-![Vaadin 10 Developer](vaadin/Vaadin%2010%20Developer.jpg)
-
-#### Vaadin 10 Professional [credly](https://vaadin.com/learn/certificate/113290e8-892c-4800-adeb-444745cf2762)  
-
-![Vaadin 10 Professional](vaadin/Vaadin%2010%20Professional.jpg)
-
-#### Vaadin 14 Developer [credly](https://vaadin.com/learn/certificate/092c64e3-c8dd-46a2-a33a-75f1c4f19174)  
-
-![Vaadin 14 Developer](vaadin/Vaadin%2014%20Developer.jpg)
-
-#### Vaadin 14 Professional [credly](https://vaadin.com/learn/certificate/6d2d0215-e181-4561-98a8-a181414ca3b7)  
-
-![Vaadin 14 Professional](vaadin/Vaadin%2014%20Professional.jpg)
-
-#### Vaadin 24 Developer [credly](https://vaadin.com/learn/certificate/86f866d4-d85f-4104-a7a0-62fb8896c161)  
-
-![Vaadin 24 Developer](vaadin/Vaadin%2024%20Developer.jpg)
+![Apache Cassandra 3 Developer Associate](other/Developer-applicant-certificate-645098.jpg)
 
 ### Neo4j
 
 #### Neo4j Certified Professional
 
-![Neo4j](other/Neo4j%20Certified%20Professional.jpg)
+![Neo4j Certified Professional](other/Neo4j%20Certified%20Professional.jpg)
 
 #### Neo4j 4.0 Certified
 
-![Neo4j](other/Neo4j%204.0%20Certified.jpg)
+![Neo4j 4.0 Certified](other/Neo4j%204.0%20Certified.jpg)
+
+### Vaadin
+
+#### Vaadin 10 Developer
+
+[Verify Certificate](https://vaadin.com/learn/certificate/9cbe6d05-6991-4567-913c-eaede8f96761)
+
+![Vaadin 10 Developer](vaadin/Vaadin%2010%20Developer.jpg)
+
+#### Vaadin 10 Professional
+
+[Verify Certificate](https://vaadin.com/learn/certificate/113290e8-892c-4800-adeb-444745cf2762)
+
+![Vaadin 10 Professional](vaadin/Vaadin%2010%20Professional.jpg)
+
+#### Vaadin 14 Developer
+
+[Verify Certificate](https://vaadin.com/learn/certificate/092c64e3-c8dd-46a2-a33a-75f1c4f19174)
+
+![Vaadin 14 Developer](vaadin/Vaadin%2014%20Developer.jpg)
+
+#### Vaadin 14 Professional
+
+[Verify Certificate](https://vaadin.com/learn/certificate/6d2d0215-e181-4561-98a8-a181414ca3b7)
+
+![Vaadin 14 Professional](vaadin/Vaadin%2014%20Professional.jpg)
+
+#### Vaadin 24 Developer
+
+[Verify Certificate](https://vaadin.com/learn/certificate/86f866d4-d85f-4104-a7a0-62fb8896c161)
+
+![Vaadin 24 Developer](vaadin/Vaadin%2024%20Developer.jpg)
+
+---
+
+## Other
 
 ### GitHub
 
-#### GitHub Foundations [credly](https://www.credly.com/badges/7f1c093b-5c00-458e-82fb-c3b095532848)
+#### GitHub Foundations
 
-![GitHub](other/GitHubFoundations_Badge20240801.jpg)
+[Verify on Credly](https://www.credly.com/badges/7f1c093b-5c00-458e-82fb-c3b095532848)
+
+![GitHub Foundations](other/GitHubFoundations_Badge20240801.jpg)
 
 ### Scaled Agile Framework (SAFe)
 
-#### Certified SAFe 4 Practitioner [credly](https://www.credly.com/earner/earned/badge/b8a56bfd-d931-4150-8761-1a4a8deb03d5)
+#### Certified SAFe 4 Practitioner
 
-![Safe](other/Certified%20SAFe%204%20Practitioner.jpg)
+[Verify on Credly](https://www.credly.com/earner/earned/badge/b8a56bfd-d931-4150-8761-1a4a8deb03d5)
+
+![Certified SAFe 4 Practitioner](other/Certified%20SAFe%204%20Practitioner.jpg)
+
+### ChromeOS
 
 #### ChromeOS Administrator
 
