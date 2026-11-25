@@ -1,5 +1,5 @@
 # Daniel Mroczka
-### Senior Software Engineer & Cloud Solutions Architect
+### Senior Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmroczka) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.mroczka@gmail.com) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-2C3E50?style=for-the-badge&logo=read-the-docs&logoColor=white)](cv/CV.md) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielmroczka)
 
@@ -36,7 +36,7 @@ Quick links to certifications, references, and professional background:
 
 Comprehensive list of multi-cloud & backend credentials:
 
-- **Google Cloud:** ACE, PCA, PCD, PDE, MLE, PCSE, PCNE, CDL
+- **Google Cloud:** 7 x Professional, 2 x Foundational, 1 x Associate
 - **Kubernetes:** Certified Kubernetes Application Developer (CKAD)
 - **Java & Data:** Sun/Oracle SCJP, OCP, OCE, Cassandra, Neo4j
 - **Multi-Cloud:** AWS, Azure, OCI, Alibaba
@@ -61,7 +61,8 @@ Verified recommendations and letters of reference from past employers:
 - Dynatrace Austria GmbH
 - IOV42
 - EBCONT enterprise technologies
-- Lerox Datenverarbeitung / BMS
+- Lerox Datenverarbeitung
+- BMS
 
 [👉 Read Reference Letters](references/REFERENCES.md)
 
