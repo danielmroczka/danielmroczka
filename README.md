@@ -1,14 +1,7 @@
 # Daniel Mroczka
 ### Senior Software Engineer & Cloud Solutions Architect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/danielmroczka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:daniel.mroczka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-  [![CV](https://img.shields.io/badge/Curriculum%20Vitae-2C3E50?style=for-the-badge&logo=read-the-docs&logoColor=white)](cv/CV.md)
-
-  <a href="https://github.com/danielmroczka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmroczka) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.mroczka@gmail.com) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-2C3E50?style=for-the-badge&logo=read-the-docs&logoColor=white)](cv/CV.md) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielmroczka)
 
 📍 **Location:** Vienna, Austria 🇦🇹 &nbsp;|&nbsp; 💼 **Current Role:** Senior Java Developer at **Erste Digital**
 
@@ -39,94 +32,64 @@ Passion-driven engineer with **25+ years of software engineering experience** ac
 
 Quick links to certifications, references, and professional background:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### [📜 Certifications](certifications/CERTIFICATIONS.md)
 
-      <p>Comprehensive list of multi-cloud & backend credentials:</p>
-      <ul>
-        <li><strong>Google Cloud:</strong> ACE, PCA, PCD, PDE, MLE, PCSE, PCNE, CDL</li>
-        <li><strong>Kubernetes:</strong> Certified Kubernetes Application Developer (CKAD)</li>
-        <li><strong>Java & Data:</strong> Sun/Oracle SCJP, OCP, OCE, Cassandra, Neo4j</li>
-        <li><strong>Multi-Cloud:</strong> AWS, Azure, OCI, Alibaba</li>
-      </ul>
+Comprehensive list of multi-cloud & backend credentials:
+
+- **Google Cloud:** ACE, PCA, PCD, PDE, MLE, PCSE, PCNE, CDL
+- **Kubernetes:** Certified Kubernetes Application Developer (CKAD)
+- **Java & Data:** Sun/Oracle SCJP, OCP, OCE, Cassandra, Neo4j
+- **Multi-Cloud:** AWS, Azure, OCI, Alibaba
 
 [👉 View All Certifications](certifications/CERTIFICATIONS.md)
 
-    </td>
-    <td width="50%" valign="top">
-
 ### [💼 Experience & CV](cv/CV.md)
 
-      <p>Over two decades of production software development:</p>
-      <ul>
-        <li><strong>Erste Digital:</strong> George Banking Transaction Team</li>
-        <li><strong>Dynatrace:</strong> Grail distributed storage & scalability guild</li>
-        <li><strong>iov42:</strong> Blockchain prototypes & KYC platforms</li>
-        <li><strong>Automic / Broadcom:</strong> Intelligence Automation Rule Engine</li>
-      </ul>
+Over two decades of production software development:
+
+- **Erste Digital:** George Banking Transaction Team
+- **Dynatrace:** Grail distributed storage & scalability guild
+- **iov42:** Blockchain prototypes & KYC platforms
+- **Automic / Broadcom:** Intelligence Automation Rule Engine
 
 [👉 View Full Curriculum Vitae](cv/CV.md)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
 ### [🤝 Reference Letters](references/REFERENCES.md)
 
-      <p>Verified recommendations and letters of reference from past employers:</p>
-      <ul>
-        <li>Dynatrace Austria GmbH</li>
-        <li>IOV42</li>
-        <li>EBCONT enterprise technologies</li>
-        <li>Lerox Datenverarbeitung / BMS</li>
-      </ul>
+Verified recommendations and letters of reference from past employers:
+
+- Dynatrace Austria GmbH
+- IOV42
+- EBCONT enterprise technologies
+- Lerox Datenverarbeitung / BMS
 
 [👉 Read Reference Letters](references/REFERENCES.md)
 
-    </td>
-    <td width="50%" valign="top">
-
 ### [🎓 Trainings & Courses](trainings/TRAININGS.md)
 
-      <p>Continuous education across emerging technologies:</p>
-      <ul>
-        <li>Coursera (Scala, Kotlin, AI/ML on GCP)</li>
-        <li>Udemy (Azure Fundamentals, Security SC-900)</li>
-        <li>MongoDB University & Cloud Guru</li>
-      </ul>
+Continuous education across emerging technologies:
+
+- Coursera (Scala, Kotlin, AI/ML on GCP)
+- Udemy (Azure Fundamentals, Security SC-900)
+- MongoDB University & Cloud Guru
 
 [👉 View Completed Trainings](trainings/TRAININGS.md)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
 ### [🏅 Codility Awards](codility/CODILITY.md)
 
-      <p>Algorithmic problem-solving awards:</p>
-      <ul>
-        <li>10+ Golden Awards & Challenges (Omega, Lithium, Boron, Carbo, Nitrogenium, Oxygenium, Rubidium, Zirconium, Niobium, Palladium)</li>
-      </ul>
+Algorithmic problem-solving awards:
+
+- 10+ Golden Awards & Challenges (Omega, Lithium, Boron, Carbo, Nitrogenium, Oxygenium, Rubidium, Zirconium, Niobium, Palladium)
 
 [👉 View Codility Certificates](codility/CODILITY.md)
 
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://www.linkedin.com/in/danielmroczka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle" /></a> Contact & Social</h3>
-      <p>Let's connect:</p>
-      <ul>
-        <li><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle" /> <a href="https://www.linkedin.com/in/danielmroczka">linkedin.com/in/danielmroczka</a></li>
-        <li><strong>Email:</strong> <a href="mailto:daniel.mroczka@gmail.com">daniel.mroczka@gmail.com</a></li>
-        <li><strong>Location:</strong> Vienna, Austria</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Contact & Social
+
+Let's connect:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmroczka) [linkedin.com/in/danielmroczka](https://www.linkedin.com/in/danielmroczka)
+- **Email:** [daniel.mroczka@gmail.com](mailto:daniel.mroczka@gmail.com)
+- **Location:** Vienna, Austria
 
 ---
 
