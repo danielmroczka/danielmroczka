@@ -11,7 +11,7 @@
 ![BMS](BMS%20Reference%20Letter.jpg)
 [pdf](BMS%20Reference%20Letter.pdf)
 
-## [Lerox]()
+## Lerox
 
 ![Lerox](Lerox%20Reference%20Letter.jpg)
 [pdf](Lerox%20Reference%20Letter.pdf)

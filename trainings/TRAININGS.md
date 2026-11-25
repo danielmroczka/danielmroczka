@@ -136,42 +136,50 @@
 ## Cloud Guru
 
 ### Introduction to Google Cloud
-![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0024.jpg)
-https://verify.acloud.guru/DCCF2D768E89
+
+[Verify Certificate](https://verify.acloud.guru/DCCF2D768E89)
+
+![Cloud Guru - Introduction to Google Cloud](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0024.jpg)
 
 ### Google Cloud Certified Associate Cloud Engineer
-![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0025.jpg)
-https://verify.acloud.guru/D1269D28BD23
+
+[Verify Certificate](https://verify.acloud.guru/D1269D28BD23)
+
+![Cloud Guru - Google Cloud Certified Associate Cloud Engineer](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0025.jpg)
 
 ### Crash Course on Google Cloud Platform
-![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0026.jpg)
-https://verify.acloud.guru/F9EFEAE7E90F
+
+[Verify Certificate](https://verify.acloud.guru/F9EFEAE7E90F)
+
+![Cloud Guru - Crash Course on Google Cloud Platform](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0026.jpg)
 
 ### Learn Google Cloud by Doing
-![Cloud Guru](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0027.jpg)
-https://verify.acloud.guru/7F534EC08964
+
+[Verify Certificate](https://verify.acloud.guru/7F534EC08964)
+
+![Cloud Guru - Learn Google Cloud by Doing](cloudguru/DANIEL%20MROCZKA%20(Java%20Developer)%20-%20Trainings_page-0027.jpg)
 
 ## Alibaba Cloud
 
 ### Operate and Manage a Cloud Server
 
-![](alibaba/img_3d86e00c470a21ab01919efdefe040b6.png)
+![Operate and Manage a Cloud Server](alibaba/img_3d86e00c470a21ab01919efdefe040b6.png)
 
 ### Use Cloud Resources Flexibly According to Business Requirement
 
-![](alibaba/img_4ceaf19b19fba6a8ebecda6834bd472a.png)
+![Use Cloud Resources Flexibly According to Business Requirement](alibaba/img_4ceaf19b19fba6a8ebecda6834bd472a.png)
 
 ### Handle Large Traffic with Load Balancer
 
-![](alibaba/img_957308d3254381e2aea35aaaa13f8334.png)
+![Handle Large Traffic with Load Balancer](alibaba/img_957308d3254381e2aea35aaaa13f8334.png)
 
 ### Operate and Manage a Relational Database on the Cloud
 
-![](alibaba/img_ed29469442d02ab4ba041d13a32616ff.png)
+![Operate and Manage a Relational Database on the Cloud](alibaba/img_ed29469442d02ab4ba041d13a32616ff.png)
 
 ### Operate and Manage Object Storage on the Cloud
 
-![](alibaba/img_ef1515b1798e0c657232de7d6a981bdb.png)
+![Operate and Manage Object Storage on the Cloud](alibaba/img_ef1515b1798e0c657232de7d6a981bdb.png)
 
 ## Other
 
@@ -193,4 +201,4 @@ https://verify.acloud.guru/7F534EC08964
 
 ### EclipseStore Advanced Training
 
-![EclipseStore Advance Training](EclipseStore.jpg)
+![EclipseStore Advanced Training](EclipseStore.jpg)
