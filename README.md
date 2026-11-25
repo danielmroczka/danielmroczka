@@ -1,23 +1,23 @@
 # Daniel Mroczka
 ### Senior Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmroczka) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.mroczka@gmail.com) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-2C3E50?style=for-the-badge&logo=read-the-docs&logoColor=white)](cv/CV.md) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielmroczka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmroczka) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.mroczka@gmail.com) [![CV](https://img.shields.io/badge/CV-2C3E50?style=for-the-badge&logo=read-the-docs&logoColor=white)](cv/CV.md) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielmroczka) [![WWW](https://img.shields.io/badge/WWW-0E76A8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danielmroczka.github.io/danielmroczka/)
 
-📍 **Location:** Vienna, Austria 🇦🇹 &nbsp;|&nbsp; 💼 **Current Role:** Senior Java Developer at **Erste Digital**
+**Location:** Vienna, Austria &nbsp;|&nbsp; **Current Role:** Senior Java Developer at **Erste Digital**
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Passion-driven engineer with **25+ years of software engineering experience** across high-throughput distributed systems, banking/finance, observability, and cloud infrastructure.
 
-- ⚙️ **Core Focus:** Enterprise Java ecosystem, distributed data ingestion, cloud-native architectures, and resilient backend systems.
-- 🚀 **Track Record:** Contributed to core transaction processing at **Erste Digital** (George App), co-engineered 3rd-generation distributed storage **Grail** at **Dynatrace**, and built blockchain microservice prototypes at **iov42**.
-- 💡 **Philosophy:** Building clean, high-performance, maintainable software and continuously mastering modern technologies.
+- **Core Focus:** Enterprise Java ecosystem, distributed data ingestion, cloud-native architectures, and resilient backend systems.
+- **Track Record:** Contributed to core transaction processing at **Erste Digital** (George App), co-engineered 3rd-generation distributed storage **Grail** at **Dynatrace**, and built blockchain microservice prototypes at **iov42**.
+- **Philosophy:** Building clean, high-performance, maintainable software and continuously mastering modern technologies.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## Tech Stack & Expertise
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -28,22 +28,18 @@ Passion-driven engineer with **25+ years of software engineering experience** ac
 
 ---
 
-## 🧭 Explore Portfolio
+## Portfolio
 
-Quick links to certifications, references, and professional background:
+### [Certifications](certifications/CERTIFICATIONS.md)
 
-### [📜 Certifications](certifications/CERTIFICATIONS.md)
-
-Comprehensive list of multi-cloud & backend credentials:
+Comprehensive list of multi-cloud and backend credentials:
 
 - **Google Cloud:** 7 x Professional, 2 x Foundational, 1 x Associate
 - **Kubernetes:** Certified Kubernetes Application Developer (CKAD)
 - **Java & Data:** Sun/Oracle SCJP, OCP, OCE, Cassandra, Neo4j
 - **Multi-Cloud:** AWS, Azure, OCI, Alibaba
 
-[👉 View All Certifications](certifications/CERTIFICATIONS.md)
-
-### [💼 Experience & CV](cv/CV.md)
+### [Experience & CV](cv/CV.md)
 
 Over two decades of production software development:
 
@@ -52,9 +48,7 @@ Over two decades of production software development:
 - **iov42:** Blockchain prototypes & KYC platforms
 - **Automic / Broadcom:** Intelligence Automation Rule Engine
 
-[👉 View Full Curriculum Vitae](cv/CV.md)
-
-### [🤝 Reference Letters](references/REFERENCES.md)
+### [Reference Letters](references/REFERENCES.md)
 
 Verified recommendations and letters of reference from past employers:
 
@@ -64,9 +58,7 @@ Verified recommendations and letters of reference from past employers:
 - Lerox Datenverarbeitung
 - BMS
 
-[👉 Read Reference Letters](references/REFERENCES.md)
-
-### [🎓 Trainings & Courses](trainings/TRAININGS.md)
+### [Trainings & Courses](trainings/TRAININGS.md)
 
 Continuous education across emerging technologies:
 
@@ -74,22 +66,17 @@ Continuous education across emerging technologies:
 - Udemy (Azure Fundamentals, Security SC-900)
 - MongoDB University & Cloud Guru
 
-[👉 View Completed Trainings](trainings/TRAININGS.md)
-
-### [🏅 Codility Awards](codility/CODILITY.md)
+### [Codility Awards](codility/CODILITY.md)
 
 Algorithmic problem-solving awards:
 
-- 10+ Golden Awards & Challenges (Omega, Lithium, Boron, Carbo, Nitrogenium, Oxygenium, Rubidium, Zirconium, Niobium, Palladium)
+- 20 Golden and 7 Silver Codility certifications (Omega, Lithium, Boron, Carbo, Nitrogenium, Oxygenium, Rubidium, Zirconium, Niobium, Palladium, and more)
 
-[👉 View Codility Certificates](codility/CODILITY.md)
+### Contact
 
-### Contact & Social
-
-Let's connect:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmroczka) [linkedin.com/in/danielmroczka](https://www.linkedin.com/in/danielmroczka)
+- **LinkedIn:** [linkedin.com/in/danielmroczka](https://www.linkedin.com/in/danielmroczka)
 - **Email:** [daniel.mroczka@gmail.com](mailto:daniel.mroczka@gmail.com)
+- **Website:** [danielmroczka.github.io/danielmroczka](https://danielmroczka.github.io/danielmroczka/)
 - **Location:** Vienna, Austria
 
 ---
