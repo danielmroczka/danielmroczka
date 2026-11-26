@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmroczka) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.mroczka@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielmroczka) [![WWW](https://img.shields.io/badge/WWW-0E76A8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danielmroczka.github.io/danielmroczka/)
 
-**Location:** Vienna, Austria &nbsp;|&nbsp; **Current Role:** Senior Java Developer at **Erste Digital** &nbsp;|&nbsp; **CV:** [View CV](cv/CV.md)
+**Location:** Vienna, Austria &nbsp;|&nbsp; **Current Role:** Senior Java Developer at **Erste Digital** 
 
 ---
 
